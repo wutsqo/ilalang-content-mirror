@@ -15,7 +15,7 @@ export async function sleep(ms: number) {
 
 export function generateFrontmatter(data: Record<string, any>) {
   const frontmatter = Object.entries(data).reduce(
-    (acc, [key, value]) => acc + `${key}: ${value}\n`,
+    (acc, [key, value]) => acc + `${key}: "${value}"\n`,
     "---\n"
   );
   return `${frontmatter}---\n`;
