@@ -22,7 +22,7 @@ jobs:
       - name: Fetch
         id: fetch
         if: env.DATABASE_URL
-        run: bun install
+        run: bun start
         env:
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
       - name: Commit
