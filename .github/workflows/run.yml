@@ -1,0 +1,40 @@
+name: Fetch
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: "20 4 * * *"
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Set up branch
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+      - uses: oven-sh/setup-bun@v2
+      - run: bun install
+      - name: Fetch
+        id: fetch
+        if: env.DATABASE_URL
+        run: bun install
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+      - name: Commit
+        if: steps.fetch.outcome == 'success'
+        run: |
+          git add content
+          git stash
+          git switch content || git checkout --orphan content
+          git reset
+          find . -mindepth 1 -maxdepth 1 -not -name '.git' -exec rm -rf {} +
+          git restore --source="stash@{0}" content
+          mv ./content/* ./
+          git add .
+          git diff --staged --quiet || git commit -m "Updated data from Ilalang"
+          git push origin content
