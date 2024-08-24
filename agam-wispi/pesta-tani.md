@@ -1,11 +1,15 @@
 ---
-id: "clz13rbdo0002ovdqsmej7mog"
-title: "pesta tani"
-author: "Agam Wispi"
-slug: "pesta-tani"
+content:
+  id: clz13rbdo0002ovdqsmej7mog
+  title: pesta tani
+  author: Agam Wispi
+  slug: pesta-tani
 ---
+### pesta tani
 
-# pesta tani
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz13rbdo0002ovdqsmej7mog](https://ilalang.drepram.com/p/clz13rbdo0002ovdqsmej7mog)
 
 <pre align="center">1</pre>
 <pre>
@@ -54,4 +58,3 @@ gubernur itu dipetjat dan kaum tani berpesta.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

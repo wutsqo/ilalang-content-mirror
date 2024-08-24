@@ -1,11 +1,15 @@
 ---
-id: "clz16fozs0001r7bu20iafvla"
-title: "plakat"
-author: "Agam Wispi"
-slug: "plakat"
+content:
+  id: clz16fozs0001r7bu20iafvla
+  title: plakat
+  author: Agam Wispi
+  slug: plakat
 ---
+### plakat
 
-# plakat
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz16fozs0001r7bu20iafvla](https://ilalang.drepram.com/p/clz16fozs0001r7bu20iafvla)
 
 <pre align="right">
 buat ulangtahun Partai
@@ -98,4 +102,3 @@ Pintubesar, 22-5-60.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

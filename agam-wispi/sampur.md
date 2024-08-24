@@ -1,11 +1,15 @@
 ---
-id: "clz12cxvx00032vll9nlqmmq9"
-title: "sampur"
-author: "Agam Wispi"
-slug: "sampur"
+content:
+  id: clz12cxvx00032vll9nlqmmq9
+  title: sampur
+  author: Agam Wispi
+  slug: sampur
 ---
+### sampur
 
-# sampur
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12cxvx00032vll9nlqmmq9](https://ilalang.drepram.com/p/clz12cxvx00032vll9nlqmmq9)
 
 <pre>
 lampu belum dipasang
@@ -21,4 +25,3 @@ Priok, 30-6-57.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

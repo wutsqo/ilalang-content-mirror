@@ -1,11 +1,15 @@
 ---
-id: "clzkn1ian0000pfl4wzc8bfe4"
-title: "sad memories of a tjiandjur peasant"
-author: "Sobron Aidit"
-slug: "sad-memories-of-a-tjiandjur-peasant"
+content:
+  id: clzkn1ian0000pfl4wzc8bfe4
+  title: sad memories of a tjiandjur peasant
+  author: Sobron Aidit
+  slug: sad-memories-of-a-tjiandjur-peasant
 ---
+### sad memories of a tjiandjur peasant
 
-# sad memories of a tjiandjur peasant
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clzkn1ian0000pfl4wzc8bfe4](https://ilalang.drepram.com/p/clzkn1ian0000pfl4wzc8bfe4)
 
 <pre align="center">
 I
@@ -53,4 +57,3 @@ and thousands of lives nipped in the bud.
 
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
-

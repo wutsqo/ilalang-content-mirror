@@ -1,11 +1,15 @@
 ---
-id: "clz124c8u0000f4k2nwtwqi7v"
-title: "Perdjalanan"
-author: "Agam Wispi"
-slug: "perdjalanan"
+content:
+  id: clz124c8u0000f4k2nwtwqi7v
+  title: Perdjalanan
+  author: Agam Wispi
+  slug: perdjalanan
 ---
+### Perdjalanan
 
-# Perdjalanan
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz124c8u0000f4k2nwtwqi7v](https://ilalang.drepram.com/p/clz124c8u0000f4k2nwtwqi7v)
 
 <pre>
 ke djakarta, saudara
@@ -35,4 +39,3 @@ kapal „ophir“, 24-2-57.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

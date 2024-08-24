@@ -1,11 +1,15 @@
 ---
-id: "clztajxmn0000okxtxe29u2gw"
-title: "Hati dan Otak Kita"
-author: "A.S. Dharta"
-slug: "hati-dan-otak-kita"
+content:
+  id: clztajxmn0000okxtxe29u2gw
+  title: Hati dan Otak Kita
+  author: A.S. Dharta
+  slug: hati-dan-otak-kita
 ---
+### Hati dan Otak Kita
 
-# Hati dan Otak Kita
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clztajxmn0000okxtxe29u2gw](https://ilalang.drepram.com/p/clztajxmn0000okxtxe29u2gw)
 
 <pre>
 hati dan otak kita
@@ -36,4 +40,3 @@ merata bagi semua.
 </pre>
 
 **Sumber:** Rangsang Detik, 1957
-

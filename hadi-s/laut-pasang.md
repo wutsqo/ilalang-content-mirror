@@ -1,13 +1,17 @@
 ---
-id: "clzk0oqq50000c7zjgf6d0jg3"
-title: "laut pasang"
-author: "Hadi S."
-slug: "laut-pasang"
+content:
+  id: clzk0oqq50000c7zjgf6d0jg3
+  title: laut pasang
+  author: Hadi S.
+  slug: laut-pasang
 ---
+### laut pasang
 
-# laut pasang
+oleh Hadi S.
 
-<pre align="center>
+[https://ilalang.drepram.com/p/clzk0oqq50000c7zjgf6d0jg3](https://ilalang.drepram.com/p/clzk0oqq50000c7zjgf6d0jg3)
+
+<pre align="center">
 1.
 </pre>
 
@@ -96,4 +100,3 @@ Kaki langit sudah dibuka.
 <br/><br/>
 
 **Sumber**: Laut Pasang, 1962
-

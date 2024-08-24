@@ -1,11 +1,15 @@
 ---
-id: "clz12nkq90002ddf9smvlmkod"
-title: "kepada pelaut"
-author: "Agam Wispi"
-slug: "kepada-pelaut"
+content:
+  id: clz12nkq90002ddf9smvlmkod
+  title: kepada pelaut
+  author: Agam Wispi
+  slug: kepada-pelaut
 ---
+### kepada pelaut
 
-# kepada pelaut
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12nkq90002ddf9smvlmkod](https://ilalang.drepram.com/p/clz12nkq90002ddf9smvlmkod)
 
 <pre>
 sendja djatuh dilaut, jajang
@@ -25,4 +29,3 @@ Pintubesar, 26-2-58.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

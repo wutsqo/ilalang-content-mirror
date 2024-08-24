@@ -1,11 +1,15 @@
 ---
-id: "cm02kql1n0000u1uwdz080t40"
-title: "lelaki pendjual kuali"
-author: "Sabar Anantaguna"
-slug: "lelaki-pendjual-kuali"
+content:
+  id: cm02kql1n0000u1uwdz080t40
+  title: lelaki pendjual kuali
+  author: Sabar Anantaguna
+  slug: lelaki-pendjual-kuali
 ---
+### lelaki pendjual kuali
 
-# lelaki pendjual kuali
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/cm02kql1n0000u1uwdz080t40](https://ilalang.drepram.com/p/cm02kql1n0000u1uwdz080t40)
 
 <pre>
 Turun dan tersaruklah kaki didjendjang djurang
@@ -29,4 +33,3 @@ tak hati sampai nasi meminta.
 <br/><br/>
 
 **Sumber**: jang bertanahair tapi tak bertanah, 1962
-

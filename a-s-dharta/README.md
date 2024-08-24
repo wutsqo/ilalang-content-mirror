@@ -1,13 +1,15 @@
 ---
-id: "clzk2eyc60000gh48c6lf7s2c"
-name: "A.S. Dharta"
-profilePicture: "/assets/dharta.jpeg"
-yearOfLife: "1924 - 2007"
-description: "—setiaku dari Cianjur hingga terungku Kebonwaru—"
-slug: "a-s-dharta"
+content:
+  id: clzk2eyc60000gh48c6lf7s2c
+  name: A.S. Dharta
+  profilePicture: /assets/dharta.jpeg
+  yearOfLife: 1924 - 2007
+  description: —setiaku dari Cianjur hingga terungku Kebonwaru—
+  slug: a-s-dharta
 ---
+## A.S. Dharta (1924 - 2007)
 
-# A.S. Dharta (1924 - 2007)
+[https://ilalang.drepram.com/a/clzk2eyc60000gh48c6lf7s2c](https://ilalang.drepram.com/a/clzk2eyc60000gh48c6lf7s2c)
 
 —setiaku dari Cianjur hingga terungku Kebonwaru—
 
@@ -16,10 +18,11 @@ slug: "a-s-dharta"
 Lahir dengan nama Adi Sidharta di Cianjur, 7 Maret 1924. Ia mempunyai sejumlah nama samaran sepanjang kiprah kepenulisannya, antara lain Klara Akustia, Kelana Asmara, Jogaswara, Endang Rodji, Bermara Putra, dan lain-lain. Mengawali kiprah kepenulisannya, sebagai wartawan harian Boeroeh di Yogyakarta, Dharta aktif memimpin serikat-serikat buruh yang tergabung di bawah Sentral Organisasi Buruh Seluruh Indonesia (SOBSI), sambil menerbitkan puisi-puisinya di sejumlah media massa seperti surat kabar Tjahaja, majalah Gelombang Zaman, Arena, dan Revolusioner. Pada 17 Agustus 1950, Dharta mendirikan Lembaga Kebudajaan Rakjat bersama M.S. Ashar dan Njoto, serta ditunjuk sebagai sekretaris jenderal pertamanya. Sebagai tonggak ideologis, Dharta menyusun Mukaddimah Lekra dan memperkenalkan realisme sosialis di kalangan kesusastraan Indonesia, hingga menerbitkan kumpulan sajak Rangsang Detik pada 1957. Setahun kemudian, prahara rumah tangga menyebabkan kiprahnya terpaksa terhenti ketika dipecat secara tidak terhormat dari jabatannya di Lekra pada 1958. Meski demikian, Dharta sempat mendirikan Universitas Kesenian Rakjat di Bandung pada 1962 bersama Hendra Gunawan, dan di kampung halamannya di Cibeber, dia mengajar kursus bahasa Inggris untuk masyarakat sekitar. Pada 1965, Dharta dijebloskan ke Penjara Kebonwaru, Bandung, dan dipaksa menjalani 13 tahun hukuman tanpa pengadilan. Setelah seluruh karyanya dirampas, Dharta berhenti menulis dan pulang ke Cibeber sesudah dibebaskan pada 1978. Selama bertahun-tahun, dia menghabiskan waktu dengan membaca, berkebun, melayani diskusi, dan membuka rumahnya untuk tempat pengajian. Kecintaannya pada akar kebudayaan mendorong Dharta untuk menyusun Kamus Sunda-Inggris-Indonesia, yang tidak sempat diselesaikannya hingga tutup usia dalam usia 83 tahun pada 7 Februari 2007.
 
 
+### Kertosentono
 
-<div class="page-break"></div>
+oleh A.S. Dharta
 
-## Kertosentono
+[https://ilalang.drepram.com/p/clzk3is120002dy7xksd2rv0j](https://ilalang.drepram.com/p/clzk3is120002dy7xksd2rv0j)
 
 <pre align="right">
 untuk petani-petani Bindjai
@@ -56,9 +59,11 @@ sekali bumi Pertiwi bebas abadi
 
 **Sumber**: Matinja Seorang Petani, 1963
 
-<div class="page-break"></div>
+### tidings from the party
 
-## tidings from the party
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clzk2uiyi0003gh48r893e5ar](https://ilalang.drepram.com/p/clzk2uiyi0003gh48r893e5ar)
 
 <pre>
 this night is a lonely night
@@ -92,9 +97,11 @@ the road which ends defeats.
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
 
-<div class="page-break"></div>
+### rukmanda
 
-## rukmanda
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clzk2qzc00002gh48cfkmp1x3](https://ilalang.drepram.com/p/clzk2qzc00002gh48cfkmp1x3)
 
 <pre>
 mention all dungeons waiting
@@ -136,9 +143,11 @@ for this too is me.
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
 
-<div class="page-break"></div>
+### Kepada Mao Tje-tung
 
-## Kepada Mao Tje-tung
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clzta1yph0000t2x4yfjfb00h](https://ilalang.drepram.com/p/clzta1yph0000t2x4yfjfb00h)
 
 <pre align="right">
 Menjambut 1 Mei '51
@@ -174,9 +183,11 @@ bagimu dan bagi kami membawa njanjian merdu :
 
 **Sumber:** Rangsang Detik, 1957
 
-<div class="page-break"></div>
+### Senen-Kramat
 
-## Senen-Kramat
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clzta5xvp0002t2x4x9it2jps](https://ilalang.drepram.com/p/clzta5xvp0002t2x4x9it2jps)
 
 <pre>
 malam di Senen-Kramat
@@ -216,9 +227,11 @@ dia hanja mau dunia kembali satu dan sama.
 
 **Sumber:** Rangsang Detik, 1957
 
-<div class="page-break"></div>
+### Rukmanda
 
-## Rukmanda
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clzta97lh0003t2x4i7uey5op](https://ilalang.drepram.com/p/clzta97lh0003t2x4i7uey5op)
 
 <pre>
 sebutkan segala pendjara
@@ -258,9 +271,11 @@ itulah aku !
 
 **Sumber:** Rangsang Detik, 1957
 
-<div class="page-break"></div>
+### Hati dan Otak Kita
 
-## Hati dan Otak Kita
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clztajxmn0000okxtxe29u2gw](https://ilalang.drepram.com/p/clztajxmn0000okxtxe29u2gw)
 
 <pre>
 hati dan otak kita
@@ -292,9 +307,11 @@ merata bagi semua.
 
 **Sumber:** Rangsang Detik, 1957
 
-<div class="page-break"></div>
+### Djalan Terus
 
-## Djalan Terus
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clztamssk0001okxtjr0iyguv](https://ilalang.drepram.com/p/clztamssk0001okxtjr0iyguv)
 
 <pre>
 kata Suurhoff*:
@@ -333,9 +350,11 @@ Belanda yang anti buruh berpolitik.
 
 **Sumber:** Rangsang Detik, 1957
 
-<div class="page-break"></div>
+### Njanjian Buruh Angkutan
 
-## Njanjian Buruh Angkutan
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clztapoqt0002okxty6xclnad](https://ilalang.drepram.com/p/clztapoqt0002okxty6xclnad)
 
 <pre align="right">
 Kepada fusi buruh transport
@@ -365,9 +384,11 @@ Aku Triompator Hari Esok !
 
 **Sumber:** Rangsang Detik, 1957
 
-<div class="page-break"></div>
+### Teruskan...
 
-## Teruskan...
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clzta3vx20001t2x4crcf2u5t](https://ilalang.drepram.com/p/clzta3vx20001t2x4crcf2u5t)
 
 <pre align="right">
 In memoriam kawan-kawan Ngalihan
@@ -403,9 +424,11 @@ madju terus ! kedunia rakjat kuasa.
 
 **Sumber:** Rangsang Detik, 1957
 
-<div class="page-break"></div>
+### Petikan Gitar
 
-## Petikan Gitar
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clztab2200000qsnz0opljmq0](https://ilalang.drepram.com/p/clztab2200000qsnz0opljmq0)
 
 <pre align="right">
 Untuk kawan dan lawan
@@ -447,9 +470,11 @@ dan hati remadja kembali.
 
 **Sumber:** Rangsang Detik, 1957
 
-<div class="page-break"></div>
+### Surat Biru
 
-## Surat Biru
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clztaby2g0001qsnz1z5zlod7](https://ilalang.drepram.com/p/clztaby2g0001qsnz1z5zlod7)
 
 <pre>
 kutumpahkan segala daja puisiku

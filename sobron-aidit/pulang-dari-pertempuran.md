@@ -1,11 +1,15 @@
 ---
-id: "clz0tt1wn00037x45vojtldx3"
-title: "pulang dari pertempuran"
-author: "Sobron Aidit"
-slug: "pulang-dari-pertempuran"
+content:
+  id: clz0tt1wn00037x45vojtldx3
+  title: pulang dari pertempuran
+  author: Sobron Aidit
+  slug: pulang-dari-pertempuran
 ---
+### pulang dari pertempuran
 
-# pulang dari pertempuran
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clz0tt1wn00037x45vojtldx3](https://ilalang.drepram.com/p/clz0tt1wn00037x45vojtldx3)
 
 <pre align="center">
 Tjatatan 1946
@@ -43,4 +47,3 @@ adik² akan besar dan menjerang !
 <br/><br/>
 
 **Sumber**: Pulang Bertempur, 1959
-

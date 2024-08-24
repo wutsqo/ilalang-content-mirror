@@ -1,11 +1,15 @@
 ---
-id: "clz0ykeye0001tk3x87sevdpx"
-title: "czardas"
-author: "Agam Wispi"
-slug: "czardas"
+content:
+  id: clz0ykeye0001tk3x87sevdpx
+  title: czardas
+  author: Agam Wispi
+  slug: czardas
 ---
+### czardas
 
-# czardas
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0ykeye0001tk3x87sevdpx](https://ilalang.drepram.com/p/clz0ykeye0001tk3x87sevdpx)
 
 <pre>
 mengapakah dia disini
@@ -32,4 +36,3 @@ Berlin, 31 Mei 1959.
 <br/><br/>
 
 **Sumber**: Sahabat, 1959
-

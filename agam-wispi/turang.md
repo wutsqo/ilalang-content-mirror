@@ -1,11 +1,15 @@
 ---
-id: "clz12vz6j0004ddf90olyegbf"
-title: "turang"
-author: "Agam Wispi"
-slug: "turang"
+content:
+  id: clz12vz6j0004ddf90olyegbf
+  title: turang
+  author: Agam Wispi
+  slug: turang
 ---
+### turang
 
-# turang
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12vz6j0004ddf90olyegbf](https://ilalang.drepram.com/p/clz12vz6j0004ddf90olyegbf)
 
 <pre align="right">
 kepada dan dari tangan
@@ -42,4 +46,3 @@ Merdeka-Utara, 28-2-58.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

@@ -1,11 +1,15 @@
 ---
-id: "clzk2z2qc0004gh48frj8rqie"
-title: "fallen in battle"
-author: "H.R. Bandaharo"
-slug: "fallen-in-battle"
+content:
+  id: clzk2z2qc0004gh48frj8rqie
+  title: fallen in battle
+  author: H.R. Bandaharo
+  slug: fallen-in-battle
 ---
+### fallen in battle
 
-# fallen in battle
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/clzk2z2qc0004gh48frj8rqie](https://ilalang.drepram.com/p/clzk2z2qc0004gh48frj8rqie)
 
 <pre>
 nine hours after the battle
@@ -59,4 +63,3 @@ and fell.
 
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
-

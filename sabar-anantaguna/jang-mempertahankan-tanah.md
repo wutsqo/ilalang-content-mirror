@@ -1,11 +1,15 @@
 ---
-id: "clzi2i5xf0000juhmsh4im7wm"
-title: "Jang mempertahankan tanah"
-author: "Sabar Anantaguna"
-slug: "jang-mempertahankan-tanah"
+content:
+  id: clzi2i5xf0000juhmsh4im7wm
+  title: Jang mempertahankan tanah
+  author: Sabar Anantaguna
+  slug: jang-mempertahankan-tanah
 ---
+### Jang mempertahankan tanah
 
-# Jang mempertahankan tanah
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/clzi2i5xf0000juhmsh4im7wm](https://ilalang.drepram.com/p/clzi2i5xf0000juhmsh4im7wm)
 
 <pre>
 Ditempat keringat tertumpah
@@ -27,4 +31,3 @@ Aku jang mati hati tegak !
 <br/><br/>
 
 **Sumber**: Matinja Seorang Petani, 1961
-

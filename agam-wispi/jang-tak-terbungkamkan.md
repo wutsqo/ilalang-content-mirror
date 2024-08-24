@@ -1,11 +1,15 @@
 ---
-id: "clz164s9k0000r7bup1g9qls0"
-title: "jang tak terbungkamkan"
-author: "Agam Wispi"
-slug: "jang-tak-terbungkamkan"
+content:
+  id: clz164s9k0000r7bup1g9qls0
+  title: jang tak terbungkamkan
+  author: Agam Wispi
+  slug: jang-tak-terbungkamkan
 ---
+### jang tak terbungkamkan
 
-# jang tak terbungkamkan
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz164s9k0000r7bup1g9qls0](https://ilalang.drepram.com/p/clz164s9k0000r7bup1g9qls0)
 
 <pre align="right">
 buat Pak Sakir
@@ -57,4 +61,3 @@ Asamlama, 19-7-60.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

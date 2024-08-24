@@ -1,11 +1,15 @@
 ---
-id: "clzk3z3cq0000otrhaj06lf9w"
-title: "Dua kelahiran"
-author: "H.R. Bandaharo"
-slug: "dua-kelahiran"
+content:
+  id: clzk3z3cq0000otrhaj06lf9w
+  title: Dua kelahiran
+  author: H.R. Bandaharo
+  slug: dua-kelahiran
 ---
+### Dua kelahiran
 
-# Dua kelahiran
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/clzk3z3cq0000otrhaj06lf9w](https://ilalang.drepram.com/p/clzk3z3cq0000otrhaj06lf9w)
 
 <pre align="center">
 I.
@@ -61,7 +65,7 @@ dari tjetusan badja
 hanja sepertjik
 membakar dunia.
 </pre>
-<pre align="center>
+<pre align="center">
 III.
 </pre>
 <pre>
@@ -101,4 +105,3 @@ Desember 1957
 <br/><br/>
 
 **Sumber**: Matinja Seorang Petani, 1963
-

@@ -1,11 +1,15 @@
 ---
-id: "cm02l397f0000zb269807pbz0"
-title: "Latini"
-author: "Agam Wispi"
-slug: "latini"
+content:
+  id: cm02l397f0000zb269807pbz0
+  title: Latini
+  author: Agam Wispi
+  slug: latini
 ---
+### Latini
 
-# Latini
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/cm02l397f0000zb269807pbz0](https://ilalang.drepram.com/p/cm02l397f0000zb269807pbz0)
 
 <pre>
 latini, ah, latini
@@ -41,4 +45,3 @@ kita jang berkabung akan membajarnja suatu hari.
 <br/><br/>
 
 **Sumber**: Matinja Seorang Petani, 1963
-

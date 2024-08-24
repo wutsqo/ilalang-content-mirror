@@ -1,11 +1,15 @@
 ---
-id: "clz176k9a0000neifcinc1nsr"
-title: "melalui pintu terbuka"
-author: "Agam Wispi"
-slug: "melalui-pintu-terbuka"
+content:
+  id: clz176k9a0000neifcinc1nsr
+  title: melalui pintu terbuka
+  author: Agam Wispi
+  slug: melalui-pintu-terbuka
 ---
+### melalui pintu terbuka
 
-# melalui pintu terbuka
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz176k9a0000neifcinc1nsr](https://ilalang.drepram.com/p/clz176k9a0000neifcinc1nsr)
 
 <pre>
 berdjalan kita tak atjuh dan tangan gemetar
@@ -127,4 +131,3 @@ Asamlama, 7-5-57.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

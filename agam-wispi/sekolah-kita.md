@@ -1,11 +1,15 @@
 ---
-id: "clz14iefg0001dh9nfq9gyqkm"
-title: "sekolah kita"
-author: "Agam Wispi"
-slug: "sekolah-kita"
+content:
+  id: clz14iefg0001dh9nfq9gyqkm
+  title: sekolah kita
+  author: Agam Wispi
+  slug: sekolah-kita
 ---
+### sekolah kita
 
-# sekolah kita
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz14iefg0001dh9nfq9gyqkm](https://ilalang.drepram.com/p/clz14iefg0001dh9nfq9gyqkm)
 
 <pre>
 setiap wadjah disini
@@ -39,4 +43,3 @@ Dj. Padang, 29-5-58.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

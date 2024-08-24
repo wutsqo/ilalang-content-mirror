@@ -1,11 +1,15 @@
 ---
-id: "clz12pymb00062vll2k9begec"
-title: "di tikungan djalan"
-author: "Agam Wispi"
-slug: "di-tikungan-djalan"
+content:
+  id: clz12pymb00062vll2k9begec
+  title: di tikungan djalan
+  author: Agam Wispi
+  slug: di-tikungan-djalan
 ---
+### di tikungan djalan
 
-# di tikungan djalan
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12pymb00062vll2k9begec](https://ilalang.drepram.com/p/clz12pymb00062vll2k9begec)
 
 <pre>
 kubatja wadjahmu
@@ -32,4 +36,3 @@ Dj. Surabaja, 10-6-57.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

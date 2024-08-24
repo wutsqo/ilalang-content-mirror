@@ -1,11 +1,15 @@
 ---
-id: "clz12sluu00072vllfivtc0ix"
-title: "keretaapi-tjepat"
-author: "Agam Wispi"
-slug: "keretaapi-tjepat"
+content:
+  id: clz12sluu00072vllfivtc0ix
+  title: keretaapi-tjepat
+  author: Agam Wispi
+  slug: keretaapi-tjepat
 ---
+### keretaapi-tjepat
 
-# keretaapi-tjepat
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12sluu00072vllfivtc0ix](https://ilalang.drepram.com/p/clz12sluu00072vllfivtc0ix)
 
 <pre>
 ketjitak-ketjitung djakarta-bandung
@@ -19,4 +23,3 @@ Padalarang, 21-6-55.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

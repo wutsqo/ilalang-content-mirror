@@ -1,11 +1,15 @@
 ---
-id: "clzta97lh0003t2x4i7uey5op"
-title: "Rukmanda"
-author: "A.S. Dharta"
-slug: "rukmanda"
+content:
+  id: clzta97lh0003t2x4i7uey5op
+  title: Rukmanda
+  author: A.S. Dharta
+  slug: rukmanda
 ---
+### Rukmanda
 
-# Rukmanda
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clzta97lh0003t2x4i7uey5op](https://ilalang.drepram.com/p/clzta97lh0003t2x4i7uey5op)
 
 <pre>
 sebutkan segala pendjara
@@ -44,4 +48,3 @@ itulah aku !
 </pre>
 
 **Sumber:** Rangsang Detik, 1957
-

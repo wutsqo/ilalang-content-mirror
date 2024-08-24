@@ -1,11 +1,15 @@
 ---
-id: "clz0y4wcu0000hvmnzi8b4s9p"
-title: "djakarta gembira"
-author: "Sobron Aidit"
-slug: "djakarta-gembira"
+content:
+  id: clz0y4wcu0000hvmnzi8b4s9p
+  title: djakarta gembira
+  author: Sobron Aidit
+  slug: djakarta-gembira
 ---
+### djakarta gembira
 
-# djakarta gembira
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clz0y4wcu0000hvmnzi8b4s9p](https://ilalang.drepram.com/p/clz0y4wcu0000hvmnzi8b4s9p)
 
 <pre>
 Andaikata aku dipindahkan dari Djakarta, kotaku sajang
@@ -45,4 +49,3 @@ pertjeraian dengan Djakartaku, sesajat riwayat sedih.
 <br/><br/>
 
 **Sumber**: Pulang Bertempur, 1959
-

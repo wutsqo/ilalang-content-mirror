@@ -1,11 +1,15 @@
 ---
-id: "cm02k3ioj000112p6deelcxbe"
-title: "tjeuk onah"
-author: "Sabar Anantaguna"
-slug: "tjeuk-onah"
+content:
+  id: cm02k3ioj000112p6deelcxbe
+  title: tjeuk onah
+  author: Sabar Anantaguna
+  slug: tjeuk-onah
 ---
+### tjeuk onah
 
-# tjeuk onah
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/cm02k3ioj000112p6deelcxbe](https://ilalang.drepram.com/p/cm02k3ioj000112p6deelcxbe)
 
 <pre>
 Tjeuk Onah takpunja bulan
@@ -30,4 +34,3 @@ mati ogah dibelenggu tuantanah.
 <br/><br/>
 
 **Sumber**: jang bertanahair tapi tak bertanah, 1962
-

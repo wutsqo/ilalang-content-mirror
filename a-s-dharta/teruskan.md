@@ -1,11 +1,15 @@
 ---
-id: "clzta3vx20001t2x4crcf2u5t"
-title: "Teruskan..."
-author: "A.S. Dharta"
-slug: "teruskan"
+content:
+  id: clzta3vx20001t2x4crcf2u5t
+  title: Teruskan...
+  author: A.S. Dharta
+  slug: teruskan
 ---
+### Teruskan...
 
-# Teruskan...
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clzta3vx20001t2x4crcf2u5t](https://ilalang.drepram.com/p/clzta3vx20001t2x4crcf2u5t)
 
 <pre align="right">
 In memoriam kawan-kawan Ngalihan
@@ -40,4 +44,3 @@ madju terus ! kedunia rakjat kuasa.
 </pre>
 
 **Sumber:** Rangsang Detik, 1957
-

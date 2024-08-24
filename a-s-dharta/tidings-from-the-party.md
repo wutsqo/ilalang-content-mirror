@@ -1,11 +1,15 @@
 ---
-id: "clzk2uiyi0003gh48r893e5ar"
-title: "tidings from the party"
-author: "A.S. Dharta"
-slug: "tidings-from-the-party"
+content:
+  id: clzk2uiyi0003gh48r893e5ar
+  title: tidings from the party
+  author: A.S. Dharta
+  slug: tidings-from-the-party
 ---
+### tidings from the party
 
-# tidings from the party
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clzk2uiyi0003gh48r893e5ar](https://ilalang.drepram.com/p/clzk2uiyi0003gh48r893e5ar)
 
 <pre>
 this night is a lonely night
@@ -38,4 +42,3 @@ the road which ends defeats.
 
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
-

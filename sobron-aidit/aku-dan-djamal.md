@@ -1,11 +1,15 @@
 ---
-id: "clz0xy5en0000tk3x5dffsflw"
-title: "aku dan djamal"
-author: "Sobron Aidit"
-slug: "aku-dan-djamal"
+content:
+  id: clz0xy5en0000tk3x5dffsflw
+  title: aku dan djamal
+  author: Sobron Aidit
+  slug: aku-dan-djamal
 ---
+### aku dan djamal
 
-# aku dan djamal
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clz0xy5en0000tk3x5dffsflw](https://ilalang.drepram.com/p/clz0xy5en0000tk3x5dffsflw)
 
 <pre align="center">
     (tjatatan 1945)
@@ -39,4 +43,3 @@ dan Djamal pasti kembali kebangsanja sendiri.
 <br/><br/>
 
 **Sumber**: Pulang Bertempur, 1959
-

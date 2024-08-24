@@ -1,11 +1,15 @@
 ---
-id: "clz148sjl0000sr0723ve94z7"
-title: "ida"
-author: "Agam Wispi"
-slug: "ida"
+content:
+  id: clz148sjl0000sr0723ve94z7
+  title: ida
+  author: Agam Wispi
+  slug: ida
 ---
+### ida
 
-# ida
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz148sjl0000sr0723ve94z7](https://ilalang.drepram.com/p/clz148sjl0000sr0723ve94z7)
 
 <pre>
 dari segala jang hilang tak kutjari lagi
@@ -19,4 +23,3 @@ Djakarta, 3-7-55.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

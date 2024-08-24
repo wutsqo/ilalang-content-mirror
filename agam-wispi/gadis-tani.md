@@ -1,11 +1,15 @@
 ---
-id: "clz13etg20000h0rm5skt4gml"
-title: "gadis tani"
-author: "Agam Wispi"
-slug: "gadis-tani"
+content:
+  id: clz13etg20000h0rm5skt4gml
+  title: gadis tani
+  author: Agam Wispi
+  slug: gadis-tani
 ---
+### gadis tani
 
-# gadis tani
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz13etg20000h0rm5skt4gml](https://ilalang.drepram.com/p/clz13etg20000h0rm5skt4gml)
 
 <pre>
 pernah rumputrumput bermusimbunga
@@ -37,4 +41,3 @@ Pematang Siantar, 1951.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

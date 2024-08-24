@@ -1,11 +1,15 @@
 ---
-id: "clz13ckf70000ovdqpq9pacs5"
-title: "dago"
-author: "Agam Wispi"
-slug: "dago"
+content:
+  id: clz13ckf70000ovdqpq9pacs5
+  title: dago
+  author: Agam Wispi
+  slug: dago
 ---
+### dago
 
-# dago
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz13ckf70000ovdqpq9pacs5](https://ilalang.drepram.com/p/clz13ckf70000ovdqpq9pacs5)
 
 <pre>
 kelam malam ini
@@ -19,4 +23,3 @@ Bandung, 20-1-61.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

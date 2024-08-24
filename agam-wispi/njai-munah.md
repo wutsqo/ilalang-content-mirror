@@ -1,11 +1,15 @@
 ---
-id: "clz10c0ay0000icrpacx2bxhj"
-title: "njai munah"
-author: "Agam Wispi"
-slug: "njai-munah"
+content:
+  id: clz10c0ay0000icrpacx2bxhj
+  title: njai munah
+  author: Agam Wispi
+  slug: njai-munah
 ---
+### njai munah
 
-# njai munah
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz10c0ay0000icrpacx2bxhj](https://ilalang.drepram.com/p/clz10c0ay0000icrpacx2bxhj)
 
 <pre align="center">
 1
@@ -89,4 +93,3 @@ Perkebunan-teh Bah birong ulu, 1951.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

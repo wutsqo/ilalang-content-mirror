@@ -1,11 +1,15 @@
 ---
-id: "clz0t8n7700007x459awblyhl"
-title: "tangan seorang buruh batuarang"
-author: "Agam Wispi"
-slug: "tangan-seorang-buruh-batuarang"
+content:
+  id: clz0t8n7700007x459awblyhl
+  title: tangan seorang buruh batuarang
+  author: Agam Wispi
+  slug: tangan-seorang-buruh-batuarang
 ---
+### tangan seorang buruh batuarang
 
-# tangan seorang buruh batuarang
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0t8n7700007x459awblyhl](https://ilalang.drepram.com/p/clz0t8n7700007x459awblyhl)
 
 <pre>
 trem lari²-andjing dibawah rintik saldju
@@ -68,4 +72,3 @@ Berlin 1959.
 <br/><br/>
 
 **Sumber**: Sahabat, 1959
-

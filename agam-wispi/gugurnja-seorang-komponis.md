@@ -1,11 +1,15 @@
 ---
-id: "clz1a8med00008nmmmzg1musn"
-title: "gugurnja seorang komponis"
-author: "Agam Wispi"
-slug: "gugurnja-seorang-komponis"
+content:
+  id: clz1a8med00008nmmmzg1musn
+  title: gugurnja seorang komponis
+  author: Agam Wispi
+  slug: gugurnja-seorang-komponis
 ---
+### gugurnja seorang komponis
 
-# gugurnja seorang komponis
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz1a8med00008nmmmzg1musn](https://ilalang.drepram.com/p/clz1a8med00008nmmmzg1musn)
 
 <pre align="center">
 (In memoriam Cornel Simandjuntak)
@@ -174,4 +178,3 @@ Medan, 1956.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

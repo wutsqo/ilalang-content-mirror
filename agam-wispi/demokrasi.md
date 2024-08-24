@@ -1,11 +1,15 @@
 ---
-id: "clz14nfu500039qg2cv5ik3vs"
-title: "demokrasi"
-author: "Agam Wispi"
-slug: "demokrasi"
+content:
+  id: clz14nfu500039qg2cv5ik3vs
+  title: demokrasi
+  author: Agam Wispi
+  slug: demokrasi
 ---
+### demokrasi
 
-# demokrasi
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz14nfu500039qg2cv5ik3vs](https://ilalang.drepram.com/p/clz14nfu500039qg2cv5ik3vs)
 
 <pre>
 djenderal, telah kami pasang
@@ -34,4 +38,3 @@ Djl. Waringin, 30-9-56.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

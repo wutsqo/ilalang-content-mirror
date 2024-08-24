@@ -1,11 +1,15 @@
 ---
-id: "cm02ibnab0000z92gjy476me2"
-title: "tiada keasingan"
-author: "H.R. Bandaharo"
-slug: "tiada-keasingan"
+content:
+  id: cm02ibnab0000z92gjy476me2
+  title: tiada keasingan
+  author: H.R. Bandaharo
+  slug: tiada-keasingan
 ---
+### tiada keasingan
 
-# tiada keasingan
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/cm02ibnab0000z92gjy476me2](https://ilalang.drepram.com/p/cm02ibnab0000z92gjy476me2)
 
 <pre align="right">
 kepada Jen Po-sen
@@ -38,4 +42,3 @@ Agus 1959
 <br/><br/>
 
 **Sumber**: Dari Bumi Merah, 1963
-

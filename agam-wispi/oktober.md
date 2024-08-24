@@ -1,11 +1,15 @@
 ---
-id: "clz14kcz600029qg29m3zvobi"
-title: "oktober"
-author: "Agam Wispi"
-slug: "oktober"
+content:
+  id: clz14kcz600029qg29m3zvobi
+  title: oktober
+  author: Agam Wispi
+  slug: oktober
 ---
+### oktober
 
-# oktober
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz14kcz600029qg29m3zvobi](https://ilalang.drepram.com/p/clz14kcz600029qg29m3zvobi)
 
 <pre>
 sekalisekali dia datang
@@ -35,4 +39,3 @@ Asamlama, 28-2-58.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

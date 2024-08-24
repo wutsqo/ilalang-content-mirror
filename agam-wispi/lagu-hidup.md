@@ -1,11 +1,15 @@
 ---
-id: "clz14fqdx00019qg274jnns3z"
-title: "lagu hidup"
-author: "Agam Wispi"
-slug: "lagu-hidup"
+content:
+  id: clz14fqdx00019qg274jnns3z
+  title: lagu hidup
+  author: Agam Wispi
+  slug: lagu-hidup
 ---
+### lagu hidup
 
-# lagu hidup
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz14fqdx00019qg274jnns3z](https://ilalang.drepram.com/p/clz14fqdx00019qg274jnns3z)
 
 <pre>
 ada angin mengetuk djendela
@@ -30,4 +34,3 @@ Dj. Padang, 20-5-58.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

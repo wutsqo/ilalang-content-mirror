@@ -1,11 +1,15 @@
 ---
-id: "clzi3whtg000116nayr2nef5v"
-title: "my father"
-author: "Hadi S."
-slug: "my-father"
+content:
+  id: clzi3whtg000116nayr2nef5v
+  title: my father
+  author: Hadi S.
+  slug: my-father
 ---
+### my father
 
-# my father
+oleh Hadi S.
+
+[https://ilalang.drepram.com/p/clzi3whtg000116nayr2nef5v](https://ilalang.drepram.com/p/clzi3whtg000116nayr2nef5v)
 
 <pre>
 my father was not among those who returned
@@ -33,4 +37,3 @@ oh, why does such suffering still stalk the earth ?
 
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
-

@@ -1,11 +1,15 @@
 ---
-id: "clzk0e3cs000011n3xtni494p"
-title: "usia penjair"
-author: "Hadi S."
-slug: "usia-penjair"
+content:
+  id: clzk0e3cs000011n3xtni494p
+  title: usia penjair
+  author: Hadi S.
+  slug: usia-penjair
 ---
+### usia penjair
 
-# usia penjair
+oleh Hadi S.
+
+[https://ilalang.drepram.com/p/clzk0e3cs000011n3xtni494p](https://ilalang.drepram.com/p/clzk0e3cs000011n3xtni494p)
 
 <pre>
 Tugu dari kemesraan dan kekaguman baru datang
@@ -74,4 +78,3 @@ berbunga.
 <br/><br/>
 
 **Sumber**: Laut Pasang, 1962
-

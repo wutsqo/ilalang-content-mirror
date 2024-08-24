@@ -1,11 +1,15 @@
 ---
-id: "clzmgi7lk0000q7jqdjei602q"
-title: "marx dihatiku dan di kuba"
-author: "Sabar Anantaguna"
-slug: "marx-dihatiku-dan-di-kuba"
+content:
+  id: clzmgi7lk0000q7jqdjei602q
+  title: marx dihatiku dan di kuba
+  author: Sabar Anantaguna
+  slug: marx-dihatiku-dan-di-kuba
 ---
+### marx dihatiku dan di kuba
 
-# marx dihatiku dan di kuba
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/clzmgi7lk0000q7jqdjei602q](https://ilalang.drepram.com/p/clzmgi7lk0000q7jqdjei602q)
 
 <pre>
 Ada kisah di waktu pagi
@@ -99,4 +103,3 @@ Tjatatan kaki:
 - Eddystone = merek sendjata
 
 **Sumber:** Viva Cuba!, 1963
-

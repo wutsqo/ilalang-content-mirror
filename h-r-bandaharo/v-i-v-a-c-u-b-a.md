@@ -1,11 +1,15 @@
 ---
-id: "clzmh4j0400008d18ac28ewr0"
-title: "v i v a    c u b a !"
-author: "H.R. Bandaharo"
-slug: "v-i-v-a-c-u-b-a"
+content:
+  id: clzmh4j0400008d18ac28ewr0
+  title: v i v a    c u b a !
+  author: H.R. Bandaharo
+  slug: v-i-v-a-c-u-b-a
 ---
+### v i v a    c u b a !
 
-# v i v a    c u b a !
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/clzmh4j0400008d18ac28ewr0](https://ilalang.drepram.com/p/clzmh4j0400008d18ac28ewr0)
 
 <pre>
 Pada saat-saat ini djantung kami berdetak
@@ -117,4 +121,3 @@ Djakarta, 12 September 1962
 
 
 **Sumber:** Viva Cuba!, 1963
-

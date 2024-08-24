@@ -1,11 +1,15 @@
 ---
-id: "clz14c97900009qg2g3gqcg9q"
-title: "harian rakjat"
-author: "Agam Wispi"
-slug: "harian-rakjat"
+content:
+  id: clz14c97900009qg2g3gqcg9q
+  title: harian rakjat
+  author: Agam Wispi
+  slug: harian-rakjat
 ---
+### harian rakjat
 
-# harian rakjat
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz14c97900009qg2g3gqcg9q](https://ilalang.drepram.com/p/clz14c97900009qg2g3gqcg9q)
 
 <pre>
 kerdja dari impiannja, indonesia bebas
@@ -19,4 +23,3 @@ Pintu besar, 25-1-61.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

@@ -1,11 +1,15 @@
 ---
-id: "clz0zn5h60005hvmnaovnv4nc"
-title: "Malam Toba"
-author: "Agam Wispi"
-slug: "malam-toba"
+content:
+  id: clz0zn5h60005hvmnaovnv4nc
+  title: Malam Toba
+  author: Agam Wispi
+  slug: malam-toba
 ---
+### Malam Toba
 
-# Malam Toba
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0zn5h60005hvmnaovnv4nc](https://ilalang.drepram.com/p/clz0zn5h60005hvmnaovnv4nc)
 
 <pre>
 merah
@@ -25,4 +29,3 @@ Parapat, 4-11-56.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

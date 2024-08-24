@@ -1,11 +1,15 @@
 ---
-id: "clz12gyyt00042vll150ig59v"
-title: "tragedi"
-author: "Agam Wispi"
-slug: "tragedi"
+content:
+  id: clz12gyyt00042vll150ig59v
+  title: tragedi
+  author: Agam Wispi
+  slug: tragedi
 ---
+### tragedi
 
-# tragedi
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12gyyt00042vll150ig59v](https://ilalang.drepram.com/p/clz12gyyt00042vll150ig59v)
 
 <pre>
 pedjalan lorong jang kemalaman
@@ -30,4 +34,3 @@ Asamlama, 2-7-57.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

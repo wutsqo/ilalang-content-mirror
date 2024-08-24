@@ -1,13 +1,15 @@
 ---
-id: "clzi3rky000005hubpzq1qx46"
-name: "Hadi S."
-profilePicture: "/assets/hadi-s.jpeg"
-yearOfLife: "-"
-description: "—selenting ave yang terus menggema—"
-slug: "hadi-s"
+content:
+  id: clzi3rky000005hubpzq1qx46
+  name: Hadi S.
+  profilePicture: /assets/hadi-s.jpeg
+  yearOfLife: '-'
+  description: —selenting ave yang terus menggema—
+  slug: hadi-s
 ---
+## Hadi S. (-)
 
-# Hadi S. (-)
+[https://ilalang.drepram.com/a/clzi3rky000005hubpzq1qx46](https://ilalang.drepram.com/a/clzi3rky000005hubpzq1qx46)
 
 —selenting ave yang terus menggema—
 
@@ -16,10 +18,11 @@ slug: "hadi-s"
 Penyair muda (pada zaman itu) keturunan Dayak dari Kalimantan.
 
 
+### djawaban
 
-<div class="page-break"></div>
+oleh Hadi S.
 
-## djawaban
+[https://ilalang.drepram.com/p/clzi4bdnv0000ol6ohhuaqal4](https://ilalang.drepram.com/p/clzi4bdnv0000ol6ohhuaqal4)
 
 <pre align="right"> Untuk A. Hussein </pre>
 <pre> Bila soalnja kebenaran, tuan, kami selalu berlapang 
@@ -55,9 +58,11 @@ Tuan kira siapa kami ? </pre>
 
 **Sumber**: Laut Pasang, 1962
 
-<div class="page-break"></div>
+### my father
 
-## my father
+oleh Hadi S.
+
+[https://ilalang.drepram.com/p/clzi3whtg000116nayr2nef5v](https://ilalang.drepram.com/p/clzi3whtg000116nayr2nef5v)
 
 <pre>
 my father was not among those who returned
@@ -86,9 +91,11 @@ oh, why does such suffering still stalk the earth ?
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
 
-<div class="page-break"></div>
+### ave maria
 
-## ave maria
+oleh Hadi S.
+
+[https://ilalang.drepram.com/p/clzi4580y000216na6t33zmth](https://ilalang.drepram.com/p/clzi4580y000216na6t33zmth)
 
 <pre> 
 Datangnja begini halus 
@@ -116,9 +123,11 @@ Pergulatan betapa gemuruh sedang kerdja belum selesai.
 
 **Sumber**: Laut Pasang, 1962
 
-<div class="page-break"></div>
+### perpisahan
 
-## perpisahan
+oleh Hadi S.
+
+[https://ilalang.drepram.com/p/clzj95gcc0000toyc8z8j59iy](https://ilalang.drepram.com/p/clzj95gcc0000toyc8z8j59iy)
 
 <pre align="center">
 1.
@@ -154,9 +163,11 @@ kasih dan sajang.
 
 **Sumber:** Laut Pasang, 1962
 
-<div class="page-break"></div>
+### usia penjair
 
-## usia penjair
+oleh Hadi S.
+
+[https://ilalang.drepram.com/p/clzk0e3cs000011n3xtni494p](https://ilalang.drepram.com/p/clzk0e3cs000011n3xtni494p)
 
 <pre>
 Tugu dari kemesraan dan kekaguman baru datang
@@ -226,11 +237,13 @@ berbunga.
 
 **Sumber**: Laut Pasang, 1962
 
-<div class="page-break"></div>
+### laut pasang
 
-## laut pasang
+oleh Hadi S.
 
-<pre align="center>
+[https://ilalang.drepram.com/p/clzk0oqq50000c7zjgf6d0jg3](https://ilalang.drepram.com/p/clzk0oqq50000c7zjgf6d0jg3)
+
+<pre align="center">
 1.
 </pre>
 
@@ -320,9 +333,11 @@ Kaki langit sudah dibuka.
 
 **Sumber**: Laut Pasang, 1962
 
-<div class="page-break"></div>
+### sadjak² hitam
 
-## sadjak² hitam
+oleh Hadi S.
+
+[https://ilalang.drepram.com/p/clzk10f560000h88dnj71msow](https://ilalang.drepram.com/p/clzk10f560000h88dnj71msow)
 
 <pre align="center">
 Pagi
@@ -385,9 +400,11 @@ Pilihan kami tinggal sebuah.
 
 **Sumber**: Laut Pasang, 1962
 
-<div class="page-break"></div>
+### lonely night
 
-## lonely night
+oleh Hadi S.
+
+[https://ilalang.drepram.com/p/clzi3ucmr000016nahldublew](https://ilalang.drepram.com/p/clzi3ucmr000016nahldublew)
 
 <pre>
 the night is lonely

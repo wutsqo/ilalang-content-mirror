@@ -1,11 +1,15 @@
 ---
-id: "clz12bjqr00022vll49o7pwyr"
-title: "pelabuhan"
-author: "Agam Wispi"
-slug: "pelabuhan"
+content:
+  id: clz12bjqr00022vll49o7pwyr
+  title: pelabuhan
+  author: Agam Wispi
+  slug: pelabuhan
 ---
+### pelabuhan
 
-# pelabuhan
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12bjqr00022vll49o7pwyr](https://ilalang.drepram.com/p/clz12bjqr00022vll49o7pwyr)
 
 <pre>
 ada jang menggelepar
@@ -24,4 +28,3 @@ Priok, 30-6-57.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

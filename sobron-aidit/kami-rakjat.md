@@ -1,11 +1,15 @@
 ---
-id: "clz0tthep00047x4588h80avh"
-title: "kami rakjat"
-author: "Sobron Aidit"
-slug: "kami-rakjat"
+content:
+  id: clz0tthep00047x4588h80avh
+  title: kami rakjat
+  author: Sobron Aidit
+  slug: kami-rakjat
 ---
+### kami rakjat
 
-# kami rakjat
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clz0tthep00047x4588h80avh](https://ilalang.drepram.com/p/clz0tthep00047x4588h80avh)
 
 <pre>
 Dulu kukira akulah orangnja
@@ -45,4 +49,3 @@ keluarga kami orang hina dan lapar.
 <br/><br/>
 
 **Sumber**: Pulang Bertempur, 1959
-

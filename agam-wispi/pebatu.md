@@ -1,11 +1,15 @@
 ---
-id: "clz100r9c00001260b5xkh7hc"
-title: "Pebatu"
-author: "Agam Wispi"
-slug: "pebatu"
+content:
+  id: clz100r9c00001260b5xkh7hc
+  title: Pebatu
+  author: Agam Wispi
+  slug: pebatu
 ---
+### Pebatu
 
-# Pebatu
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz100r9c00001260b5xkh7hc](https://ilalang.drepram.com/p/clz100r9c00001260b5xkh7hc)
 
 <pre>
 aspal turunaik
@@ -28,4 +32,3 @@ Pebatu, 3-11-56.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

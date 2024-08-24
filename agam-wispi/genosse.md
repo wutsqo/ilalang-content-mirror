@@ -1,11 +1,15 @@
 ---
-id: "clz0youzd0000zj0q6b2ob126"
-title: "genosse"
-author: "Agam Wispi"
-slug: "genosse"
+content:
+  id: clz0youzd0000zj0q6b2ob126
+  title: genosse
+  author: Agam Wispi
+  slug: genosse
 ---
+### genosse
 
-# genosse
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0youzd0000zj0q6b2ob126](https://ilalang.drepram.com/p/clz0youzd0000zj0q6b2ob126)
 
 <pre>
 orang dongengi aku mimpi harapan
@@ -32,4 +36,3 @@ dalam arti jang paling padat bagi
 pergaulan di Djerman sekarang,
 jaitu seorang komunis.
 </pre>
-

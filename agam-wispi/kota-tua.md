@@ -1,11 +1,15 @@
 ---
-id: "clz0z6hks0001zj0q1kbesqf5"
-title: "kota tua"
-author: "Agam Wispi"
-slug: "kota-tua"
+content:
+  id: clz0z6hks0001zj0q1kbesqf5
+  title: kota tua
+  author: Agam Wispi
+  slug: kota-tua
 ---
+### kota tua
 
-# kota tua
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0z6hks0001zj0q1kbesqf5](https://ilalang.drepram.com/p/clz0z6hks0001zj0q1kbesqf5)
 
 <pre>
 harmonika itu berderai kesungai
@@ -29,4 +33,3 @@ Erfurt, Djuli 1959.
 <br/><br/>
 
 **Sumber**: Sahabat, 1959
-

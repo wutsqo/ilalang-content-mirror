@@ -1,11 +1,15 @@
 ---
-id: "cm02ihqdm0001z92ghhvfqy0l"
-title: "tu tjin fang"
-author: "H.R. Bandaharo"
-slug: "tu-tjin-fang"
+content:
+  id: cm02ihqdm0001z92ghhvfqy0l
+  title: tu tjin fang
+  author: H.R. Bandaharo
+  slug: tu-tjin-fang
 ---
+### tu tjin fang
 
-# tu tjin fang
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/cm02ihqdm0001z92ghhvfqy0l](https://ilalang.drepram.com/p/cm02ihqdm0001z92ghhvfqy0l)
 
 <pre align="right">
 (aktris opera Peking)
@@ -44,4 +48,3 @@ Agus 1959
 <br/><br/>
 
 **Sumber**: Dari Bumi Merah, 1963
-

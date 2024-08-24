@@ -1,11 +1,15 @@
 ---
-id: "clz1c2w8h0000lvfm0vfdtb0a"
-title: "djakarta oi djakarta"
-author: "Agam Wispi"
-slug: "djakarta-oi-djakarta"
+content:
+  id: clz1c2w8h0000lvfm0vfdtb0a
+  title: djakarta oi djakarta
+  author: Agam Wispi
+  slug: djakarta-oi-djakarta
 ---
+### djakarta oi djakarta
 
-# djakarta oi djakarta
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz1c2w8h0000lvfm0vfdtb0a](https://ilalang.drepram.com/p/clz1c2w8h0000lvfm0vfdtb0a)
 
 <div align="right">
 <strong>bagi Partai, diri kita</strong>
@@ -89,6 +93,7 @@ tahulah bahwa tawa jang paling pahitpun dari klas buruh
 tawa jang paling pahit baiklah bagi suatu kegagalan jang
         peladjarannja diketjap mesra
 maka bertukarlah suatu djaman bagi siapa sebenarnja pendjara
+</pre>
 <pre align="center">❋</pre>
 <pre>
 sungguh, bahagia pulang kerdja ini hanja dimengerti oleh mereka
@@ -106,8 +111,8 @@ melangkah pulang kerdja ini tekadang bagai djumpa kawan
 melangkah pulang kerdja ini membuat kita sebagian dari mereka
         jang berdjalan 10.000 mil kepangkalan kemerdekaan        
         
-            djakarta oi djakarta
-            djendela bertirai biru muda
+        djakarta oi djakarta
+        djendela bertirai biru muda
 
 kuketok pintu dikokok ajam
 rupanja kau letih menunggu
@@ -130,8 +135,8 @@ tjerita esok pagi gerbang kota berdandan pesta
 dan tiap djantung didenjut satu suara
 hidup, rakjat pekerdja !
 
-            djakarta oi djakarta
-            djakarta oi djakarta
+        djakarta oi djakarta
+        djakarta oi djakarta
 </pre>
 <pre align="center">❋</pre>
 <pre>
@@ -255,7 +260,7 @@ berikan tanganmu, ajang, mari berlagu betapapun seraknja
 djawapan dari dada terbuka telah membuat lagu ini kumandan
         dari djaman kedjaman
         
-            djakarta oi djakarta
+        djakarta oi djakarta
 
 pundakpundak telandjang dimatangkan matahari
 mentjebur diair kasihpun tjair
@@ -271,8 +276,8 @@ kutjutjikan badjumu, tuan, dan diair kasihku tjair
 tjemplungkan kakimu, tuan, dan tjintamu memandjat tepi
 tjeburkan dirimu, sajang, oplet berlari dan berlari
 
-            djakarta oi djakarta
-            
+        djakarta oi djakarta
+        
 malam mengambang diapung kikik djalang diwarung suram
 malam djadi terbenam larut dibawa deru oplet sampai djauh
 malam begitu dalam dibelam melodi harmonika dan kenangan
@@ -282,7 +287,7 @@ malam sisa terakir meremukkan dada kosong digerbong tua
         selagi plesiran sudah sematjam kerdja
 malam putusputus kedjam ditikungan djakarta dalam gegas
         langkah lelaki memburu rumahnja dan simanis
-         kehilangan mangsa
+        kehilangan mangsa
 malam adalah milik sendiri jang hangatnja direguk habis ---
         tukangbetja bergelung dalam betjanja (sudah djam
         berapa ? atau perlukah lagi tanja ini : sudah djam
@@ -301,7 +306,7 @@ udjung sebuah djalan biarlah dilupakan karena jang merebah
         begitu mandja
 itjah bersaing dengan djudi --- perampas jang baikhati ---
         berangkali ada sisa terakir buat mimpi atau petimati
-         
+        
 bagi merekalah nisan tiada bertanda bunga tapi kesajangan
         itjah jang djatuharga
 bagi merekalah malam begitu dalam hingga permukaan tiada
@@ -321,9 +326,9 @@ dilahirkan dan selalu dilahirkan, bangkit dan segala bangkit,
         bergerak dan selalu bergerak, segala hidup segala
         menari
 
-            djakarta oi djakarta
-            kasih mengalir berdebu duka
-            
+        djakarta oi djakarta
+        kasih mengalir berdebu duka
+        
 asap sedang berangkat dari tjelah atap mengantar bau
 bahwa disana ada tngan perempuan, berangkali seorang ibu
         berangkali babu
@@ -346,12 +351,12 @@ mendjulang kelangit debu dan dinding putih
 ai-mak-djang, musimbunga akan datang
 dan tiada pagar dapat mengurung pekarangan
 
-            djakarta oi djakarta
-            rambaterata perampas tumpas
-            
+        djakarta oi djakarta
+        rambaterata perampas tumpas
+        
 djakarta oi djakarta
 sepotong harap tiarap bahaja
-            
+        
 djakarta oi djakarta
 dibubung atap merpati hinggap
 
@@ -385,22 +390,20 @@ buka djendela, angin pagi dimimpi pagi
 djakarta oi djakarta
 buka djendela, genggam salam kepal tindju
 
-            djakarta oi djakarta
-            
+        djakarta oi djakarta
+        
 mendjulang tinggi merpati dan dinding putih
 ai-mak-djang, musimbunga akan datang
 dan tiada pagar dapat mengurung pekarangan
 
-            djakarta oi djakarta
-            
+        djakarta oi djakarta
+        
 jang berkawan
-jang berlawan
-
+jang berlawan          
 </pre>
 <pre>
 asamlama-kajuawet, 29 djuni-21 oktober 1958.
 </pre>
-<br/><br/>
-
+<br /><br />
+  
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

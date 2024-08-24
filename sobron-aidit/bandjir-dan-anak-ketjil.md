@@ -1,11 +1,15 @@
 ---
-id: "clz0ycu8i0001hvmnlob345e3"
-title: "bandjir dan anak ketjil"
-author: "Sobron Aidit"
-slug: "bandjir-dan-anak-ketjil"
+content:
+  id: clz0ycu8i0001hvmnlob345e3
+  title: bandjir dan anak ketjil
+  author: Sobron Aidit
+  slug: bandjir-dan-anak-ketjil
 ---
+### bandjir dan anak ketjil
 
-# bandjir dan anak ketjil
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clz0ycu8i0001hvmnlob345e3](https://ilalang.drepram.com/p/clz0ycu8i0001hvmnlob345e3)
 
 <pre align="center">
 (tjatatan di Belitung)
@@ -66,4 +70,3 @@ haknja jang mutlak.
 <br/><br/>
 
 **Sumber**: Pulang Bertempur, 1959
-

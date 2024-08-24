@@ -1,11 +1,15 @@
 ---
-id: "clzi29le20000qfc2ylkr4g9t"
-title: "Ditanah tak pernah menjerah"
-author: "Sabar Anantaguna"
-slug: "ditanah-tak-pernah-menjerah"
+content:
+  id: clzi29le20000qfc2ylkr4g9t
+  title: Ditanah tak pernah menjerah
+  author: Sabar Anantaguna
+  slug: ditanah-tak-pernah-menjerah
 ---
+### Ditanah tak pernah menjerah
 
-# Ditanah tak pernah menjerah
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/clzi29le20000qfc2ylkr4g9t](https://ilalang.drepram.com/p/clzi29le20000qfc2ylkr4g9t)
 
 <pre>
 Tak usah kusebutkan namanja, dik
@@ -179,4 +183,3 @@ Surabaja 1961.
 <br/><br/>
 
 **Sumber**: Matinja Seorang Petani, 1961
-

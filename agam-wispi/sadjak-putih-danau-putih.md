@@ -1,11 +1,15 @@
 ---
-id: "clz0zyp320002zj0qweerjum5"
-title: "Sadjak putih danau putih"
-author: "Agam Wispi"
-slug: "sadjak-putih-danau-putih"
+content:
+  id: clz0zyp320002zj0qweerjum5
+  title: Sadjak putih danau putih
+  author: Agam Wispi
+  slug: sadjak-putih-danau-putih
 ---
+### Sadjak putih danau putih
 
-# Sadjak putih danau putih
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0zyp320002zj0qweerjum5](https://ilalang.drepram.com/p/clz0zyp320002zj0qweerjum5)
 
 <pre>
 kelam warna puntjak samosir
@@ -102,4 +106,3 @@ Parapat, 1957.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

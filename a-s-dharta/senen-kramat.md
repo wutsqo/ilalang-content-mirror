@@ -1,11 +1,15 @@
 ---
-id: "clzta5xvp0002t2x4x9it2jps"
-title: "Senen-Kramat"
-author: "A.S. Dharta"
-slug: "senen-kramat"
+content:
+  id: clzta5xvp0002t2x4x9it2jps
+  title: Senen-Kramat
+  author: A.S. Dharta
+  slug: senen-kramat
 ---
+### Senen-Kramat
 
-# Senen-Kramat
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clzta5xvp0002t2x4x9it2jps](https://ilalang.drepram.com/p/clzta5xvp0002t2x4x9it2jps)
 
 <pre>
 malam di Senen-Kramat
@@ -44,4 +48,3 @@ dia hanja mau dunia kembali satu dan sama.
 </pre>
 
 **Sumber:** Rangsang Detik, 1957
-

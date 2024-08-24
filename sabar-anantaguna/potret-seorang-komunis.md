@@ -1,11 +1,15 @@
 ---
-id: "clzjjyv6a0000ssjvox5xkltx"
-title: "Potret Seorang Komunis"
-author: "Sabar Anantaguna"
-slug: "potret-seorang-komunis"
+content:
+  id: clzjjyv6a0000ssjvox5xkltx
+  title: Potret Seorang Komunis
+  author: Sabar Anantaguna
+  slug: potret-seorang-komunis
 ---
+### Potret Seorang Komunis
 
-# Potret Seorang Komunis
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/clzjjyv6a0000ssjvox5xkltx](https://ilalang.drepram.com/p/clzjjyv6a0000ssjvox5xkltx)
 
 <pre>
 Adakah duka lebih duka jang kita punja
@@ -42,4 +46,3 @@ sebagai kesetiaan jang berkibar diwaktu kerdja
 </pre>
 
 **Sumber:** Harian Rakjat, 1964
-

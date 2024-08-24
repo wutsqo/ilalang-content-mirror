@@ -1,13 +1,15 @@
 ---
-id: "clz01irp7000011tim8fiyk54"
-name: "Sobron Aidit"
-profilePicture: "/assets/sobron-2.jpg"
-yearOfLife: "1934 - 2007"
-description: "—dari Tanjung Pandan ke Paris, lewat Peking—"
-slug: "sobron-aidit"
+content:
+  id: clz01irp7000011tim8fiyk54
+  name: Sobron Aidit
+  profilePicture: /assets/sobron-2.jpg
+  yearOfLife: 1934 - 2007
+  description: '—dari Tanjung Pandan ke Paris, lewat Peking—'
+  slug: sobron-aidit
 ---
+## Sobron Aidit (1934 - 2007)
 
-# Sobron Aidit (1934 - 2007)
+[https://ilalang.drepram.com/a/clz01irp7000011tim8fiyk54](https://ilalang.drepram.com/a/clz01irp7000011tim8fiyk54)
 
 —dari Tanjung Pandan ke Paris, lewat Peking—
 
@@ -16,10 +18,11 @@ slug: "sobron-aidit"
 Lahir di Tanjung Pandan, Belitung, pada 2 Juni 1934, sebagai putra pertama dari istri kedua Abdullah Aidit (1900 - 1969). Merantau ke Djakarta pada usia 14 tahun, puisi-puisi Sobron telah dimuat di sejumlah majalah terkemuka saat itu, seperti Zenith, Kisah, Sastra, Siasat, dan Mimbar Indonesia. Pada 1955, Sobron menerbitkan kumpulan puisi Ketemu Didjalan bersama S.M. Ardan dan Ajip Rosidi. Selain menulis, Sobron melakoni bermacam profesi, mulai dari guru SMA Utama Salemba dan SMA Tiong Hoa Hwee Koan di Djakarta; wartawan Harian Rakjat, pengurus Lembaga Persahabatan Indonesia-Tiongkok; pengajar Akademi Sastra Multatuli; dan pada 1964 diangkat sebagai Guru Besar Sastra dan Bahasa Indonesia di Institut Bahasa Asing, Peking. Pada 1965, menyusul kegagalan Gerakan 30 September, Sobron menjadi satu dari ratusan orang Indonesia yang tidak bisa kembali ke Indonesia, mengalami pencabutan kewarganegaraan, dan terseret gelombang Revolusi Kebudayaan yang memaksanya pindah ke sebuah desa pertanian di Nan Cang. Pada 1981, Sobron beserta dua putrinya berhasil memperoleh suaka dari pemerintah Prancis, dan setahun berikutnya mendirikan Restoran “Indonesia” yang beralamat di 12 Rue de Vaugirard, Prancis, bersama Umar Said, Budiman Sudarsono, dan J.J. Kusni. Sambil mengelola restoran, Sobron menulis sejumlah kisah dalam memoar bersambung, hingga tutup usia pada 10 Februari 2007.
 
 
+### hidup
 
-<div class="page-break"></div>
+oleh Sobron Aidit
 
-## hidup
+[https://ilalang.drepram.com/p/clz03g1l30000wyicmh0g69og](https://ilalang.drepram.com/p/clz03g1l30000wyicmh0g69og)
 
 ```
 Hidup itu bukan tergantung pada apa
@@ -43,9 +46,11 @@ dan jang penting bagi masing² dan orang lain.
 
 **Sumber**: Pulang Bertempur, 1959
 
-<div class="page-break"></div>
+### kenangan sedih petani tjiandjur
 
-## kenangan sedih petani tjiandjur
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clz03n12e0000ka5psa0x4x0b](https://ilalang.drepram.com/p/clz03n12e0000ka5psa0x4x0b)
 
 <pre align="center">
 I.
@@ -93,9 +98,11 @@ Dan beribu djiwa sia-sia.
 
 **Sumber**: Pulang Bertempur, 1959
 
-<div class="page-break"></div>
+### aku dan djamal
 
-## aku dan djamal
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clz0xy5en0000tk3x5dffsflw](https://ilalang.drepram.com/p/clz0xy5en0000tk3x5dffsflw)
 
 <pre align="center">
     (tjatatan 1945)
@@ -130,9 +137,11 @@ dan Djamal pasti kembali kebangsanja sendiri.
 
 **Sumber**: Pulang Bertempur, 1959
 
-<div class="page-break"></div>
+### djakarta gembira
 
-## djakarta gembira
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clz0y4wcu0000hvmnzi8b4s9p](https://ilalang.drepram.com/p/clz0y4wcu0000hvmnzi8b4s9p)
 
 <pre>
 Andaikata aku dipindahkan dari Djakarta, kotaku sajang
@@ -173,9 +182,11 @@ pertjeraian dengan Djakartaku, sesajat riwayat sedih.
 
 **Sumber**: Pulang Bertempur, 1959
 
-<div class="page-break"></div>
+### Badjak untuk Petani
 
-## Badjak untuk Petani
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clz1m5rc10000tbjynje82bal](https://ilalang.drepram.com/p/clz1m5rc10000tbjynje82bal)
 
 <pre>
 Apakah jang lebih indah didunia ini
@@ -209,9 +220,11 @@ Dibarisan jang terhina dan lapar.
 
 **Sumber**: Matinja Seorang Petani, 1963
 
-<div class="page-break"></div>
+### setia kawan
 
-## setia kawan
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clz01z3990000ungsfx9d4q0b](https://ilalang.drepram.com/p/clz01z3990000ungsfx9d4q0b)
 
 ```
 Hasan sudah lama sakit berwadjah putjat lesu
@@ -235,9 +248,11 @@ kalau dirasakan kawan bersama.
 
 **Sumber**: Pulang Bertempur, 1959
 
-<div class="page-break"></div>
+### pulang dari pertempuran
 
-## pulang dari pertempuran
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clz0tt1wn00037x45vojtldx3](https://ilalang.drepram.com/p/clz0tt1wn00037x45vojtldx3)
 
 <pre align="center">
 Tjatatan 1946
@@ -276,9 +291,11 @@ adik² akan besar dan menjerang !
 
 **Sumber**: Pulang Bertempur, 1959
 
-<div class="page-break"></div>
+### kami rakjat
 
-## kami rakjat
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clz0tthep00047x4588h80avh](https://ilalang.drepram.com/p/clz0tthep00047x4588h80avh)
 
 <pre>
 Dulu kukira akulah orangnja
@@ -319,9 +336,11 @@ keluarga kami orang hina dan lapar.
 
 **Sumber**: Pulang Bertempur, 1959
 
-<div class="page-break"></div>
+### bandjir dan anak ketjil
 
-## bandjir dan anak ketjil
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clz0ycu8i0001hvmnlob345e3](https://ilalang.drepram.com/p/clz0ycu8i0001hvmnlob345e3)
 
 <pre align="center">
 (tjatatan di Belitung)
@@ -383,9 +402,11 @@ haknja jang mutlak.
 
 **Sumber**: Pulang Bertempur, 1959
 
-<div class="page-break"></div>
+### sad memories of a tjiandjur peasant
 
-## sad memories of a tjiandjur peasant
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clzkn1ian0000pfl4wzc8bfe4](https://ilalang.drepram.com/p/clzkn1ian0000pfl4wzc8bfe4)
 
 <pre align="center">
 I
@@ -434,9 +455,11 @@ and thousands of lives nipped in the bud.
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
 
-<div class="page-break"></div>
+### the society of my class
 
-## the society of my class
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clzknhtw200006tanw7neh0l5](https://ilalang.drepram.com/p/clzknhtw200006tanw7neh0l5)
 
 <pre>
 udin, seventeen times you have been kicked around
@@ -484,9 +507,11 @@ and for my class only the golden sunrays.
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
 
-<div class="page-break"></div>
+### life
 
-## life
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clzkn3gtz0001pfl4qeab6rz3](https://ilalang.drepram.com/p/clzkn3gtz0001pfl4qeab6rz3)
 
 <pre>
 life does not depend on some external force

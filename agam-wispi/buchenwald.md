@@ -1,11 +1,15 @@
 ---
-id: "clz0zd0hu0003hvmnmxerru0i"
-title: "buchenwald"
-author: "Agam Wispi"
-slug: "buchenwald"
+content:
+  id: clz0zd0hu0003hvmnmxerru0i
+  title: buchenwald
+  author: Agam Wispi
+  slug: buchenwald
 ---
+### buchenwald
 
-# buchenwald
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0zd0hu0003hvmnmxerru0i](https://ilalang.drepram.com/p/clz0zd0hu0003hvmnmxerru0i)
 
 <pre>
 mereka gali lobang
@@ -44,4 +48,3 @@ Buchenwald, Djuli 1959.
 <br/><br/>
 
 **Sumber**: Sahabat, 1959
-

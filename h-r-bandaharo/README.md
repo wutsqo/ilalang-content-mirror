@@ -1,13 +1,15 @@
 ---
-id: "clzk2fxf60001gh48e2plfggq"
-name: "H.R. Bandaharo"
-profilePicture: "/assets/bandaharo.png"
-yearOfLife: "1917 - 1993"
-description: "—memang tak seorang berniat pulang—"
-slug: "h-r-bandaharo"
+content:
+  id: clzk2fxf60001gh48e2plfggq
+  name: H.R. Bandaharo
+  profilePicture: /assets/bandaharo.png
+  yearOfLife: 1917 - 1993
+  description: —memang tak seorang berniat pulang—
+  slug: h-r-bandaharo
 ---
+## H.R. Bandaharo (1917 - 1993)
 
-# H.R. Bandaharo (1917 - 1993)
+[https://ilalang.drepram.com/a/clzk2fxf60001gh48e2plfggq](https://ilalang.drepram.com/a/clzk2fxf60001gh48e2plfggq)
 
 —memang tak seorang berniat pulang—
 
@@ -16,10 +18,11 @@ slug: "h-r-bandaharo"
 Lahir dengan nama Banda Harahap di Medan, Sumatra Utara, pada 1917. Mengenyam pendidikan hingga tingkat menengah di Meer Uitgebreid Lagere Onderwijs (MULO) sebelum Perang Dunia II, puisi-puisi Banda mulai diterbitkan di majalah Poedjangga Baroe pada 1933, di usianya yang belum 20 tahun. Pada masa Revolusi Fisik, Banda aktif menggalang dukungan rakyat Sumatra Timur untuk mempertahankan kemerdekaan Indonesia, sebelum pindah ke Djakarta pada awal 1950-an. Sebagai salah satu anggota generasi pertama Lembaga Kebudajaan Rakjat, puisi-puisi Banda dimuat di sejumlah berkala seperti Zaman Baru, Zenith, dan Kebudajaan. Kumpulan puisi pertamanya diterbitkan Jajasan Pembaruan pada 1958 berjudul Dari Daerah Kehadiran, Lapar, dan Kasih, disusul Dari Bumi Merah (1963). Terpilih sebagai anggota Sekretariat Pimpinan Pusat Lekra dalam Kongres I di Solo pada 1959, Banda sempat berkeliling ke sejumlah negara Blok Timur atas nama Lekra, selain aktif sebagai anggota Departemen Kebudayaan Central Comite Partai Komunis Indonesia dan mengeditori lembar kebudayaan Harian Rakjat dan HR Minggu. Salah satu puisi Banda bahkan menjadi puisi wajib dalam berbagai lomba deklamasi tahun 1960-an, yakni sajak “Tak Seorang Berniat Pulang”. Pada 1965, menyusul kegagalan Gerakan 30 September, Banda ditangkap, dipenjarakan, dan turut bersama 12.000 tahanan laki-laki yang diasingkan ke Pulau Buru. Dibebaskan dengan menyandang status Eks-Tapol (ET) pada 1979, Banda adalah salah seorang penyintas yang memulai kerja-kerja dokumentasi dari pengarang segenerasinya yang “dihilangkan” dari semesta kesusastraan Indonesia pascapembunuhan massal 1965-1966. Dia menerbitkan buku di kalangan terbatas berjudul Dosa Apa? (Inkultura, 1981), yang menggugat ketidakadilan yang telah dialaminya selama bertahun-tahun sebagai tahanan politik. Kumpulan puisi terakhirnya, Mimpi dalam Mimpi (1986), terbit tujuh tahun sebelum dia tutup usia di Jakarta, 1 April 1993.
 
 
+### no one shall return
 
-<div class="page-break"></div>
+oleh H.R. Bandaharo
 
-## no one shall return
+[https://ilalang.drepram.com/p/clzk38lbs0000dy7x8kvyf0wi](https://ilalang.drepram.com/p/clzk38lbs0000dy7x8kvyf0wi)
 
 <pre>
 the masses march towards the day
@@ -47,9 +50,11 @@ though death awaits ahead.
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
 
-<div class="page-break"></div>
+### fallen in battle
 
-## fallen in battle
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/clzk2z2qc0004gh48frj8rqie](https://ilalang.drepram.com/p/clzk2z2qc0004gh48frj8rqie)
 
 <pre>
 nine hours after the battle
@@ -104,9 +109,11 @@ and fell.
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
 
-<div class="page-break"></div>
+### after panmunjom
 
-## after panmunjom
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/clzk3c5go0001dy7x2ucrkmub](https://ilalang.drepram.com/p/clzk3c5go0001dy7x2ucrkmub)
 
 <pre align="right">
 for Major Yoon Gil
@@ -140,9 +147,11 @@ on the red soil.
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
 
-<div class="page-break"></div>
+### korea merah dibumi merah
 
-## korea merah dibumi merah
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/cm02jaytu0001ovlfellxt0t2](https://ilalang.drepram.com/p/cm02jaytu0001ovlfellxt0t2)
 
 <pre align="right">
 untuk Song Yung
@@ -178,9 +187,11 @@ September 1959
 
 **Sumber**: Dari Bumi Merah, 1963
 
-<div class="page-break"></div>
+### nama jang hanjut
 
-## nama jang hanjut
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/cm02jk5fp000145a2qv20kil7](https://ilalang.drepram.com/p/cm02jk5fp000145a2qv20kil7)
 
 <pre>
 Di Pyongyang ada sebuah sungai
@@ -209,9 +220,11 @@ September 1959
 
 **Sumber**: Dari Bumi Merah, 1963
 
-<div class="page-break"></div>
+### tu tjin fang
 
-## tu tjin fang
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/cm02ihqdm0001z92ghhvfqy0l](https://ilalang.drepram.com/p/cm02ihqdm0001z92ghhvfqy0l)
 
 <pre align="right">
 (aktris opera Peking)
@@ -251,9 +264,11 @@ Agus 1959
 
 **Sumber**: Dari Bumi Merah, 1963
 
-<div class="page-break"></div>
+### tiada keasingan
 
-## tiada keasingan
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/cm02ibnab0000z92gjy476me2](https://ilalang.drepram.com/p/cm02ibnab0000z92gjy476me2)
 
 <pre align="right">
 kepada Jen Po-sen
@@ -287,9 +302,11 @@ Agus 1959
 
 **Sumber**: Dari Bumi Merah, 1963
 
-<div class="page-break"></div>
+### sesudah panmunjom
 
-## sesudah panmunjom
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/cm02j7cn50000ovlfmx92kqc1](https://ilalang.drepram.com/p/cm02j7cn50000ovlfmx92kqc1)
 
 <pre align="right">
 untuk major Yoon Gil
@@ -324,9 +341,11 @@ September 1959
 
 **Sumber**: Dari Bumi Merah, 1963
 
-<div class="page-break"></div>
+### lelaki korea
 
-## lelaki korea
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/cm02jfc5n000045a2m9l4tqsw](https://ilalang.drepram.com/p/cm02jfc5n000045a2m9l4tqsw)
 
 <pre align="right">
 untuk Kim Byong Hyu
@@ -363,9 +382,11 @@ September 1959
 
 **Sumber**: Dari Bumi Merah, 1963
 
-<div class="page-break"></div>
+### v i v a    c u b a !
 
-## v i v a    c u b a !
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/clzmh4j0400008d18ac28ewr0](https://ilalang.drepram.com/p/clzmh4j0400008d18ac28ewr0)
 
 <pre>
 Pada saat-saat ini djantung kami berdetak
@@ -478,9 +499,37 @@ Djakarta, 12 September 1962
 
 **Sumber:** Viva Cuba!, 1963
 
-<div class="page-break"></div>
+### tak seorang berniat pulang
 
-## Dua kelahiran
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/clzsl5sx90000dwohltca2tsj](https://ilalang.drepram.com/p/clzsl5sx90000dwohltca2tsj)
+
+<pre>
+Barisan menjongsong haridatang
+kuwakili kini ini;
+derita dan duka dari zamanku
+kudukung dipunggung
+
+Tak seorang berniat pulang
+walau mati menanti.
+
+Djalan ini menudju fadjar menjingsing
+dan njanji jang njaring;
+tjita melahirkan tjinta
+pada hidup diketjap langsung
+
+Tak seorang berniat pulang
+walau mati menanti.
+</pre>
+
+**Sumber:** Dari Daerah Kehadiran, Lapar, dan Kasih, 1958
+
+### Dua kelahiran
+
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/clzk3z3cq0000otrhaj06lf9w](https://ilalang.drepram.com/p/clzk3z3cq0000otrhaj06lf9w)
 
 <pre align="center">
 I.
@@ -536,7 +585,7 @@ dari tjetusan badja
 hanja sepertjik
 membakar dunia.
 </pre>
-<pre align="center>
+<pre align="center">
 III.
 </pre>
 <pre>
@@ -576,27 +625,3 @@ Desember 1957
 <br/><br/>
 
 **Sumber**: Matinja Seorang Petani, 1963
-
-<div class="page-break"></div>
-
-## tak seorang berniat pulang
-
-<pre>
-Barisan menjongsong haridatang
-kuwakili kini ini;
-derita dan duka dari zamanku
-kudukung dipunggung
-
-Tak seorang berniat pulang
-walau mati menanti.
-
-Djalan ini menudju fadjar menjingsing
-dan njanji jang njaring;
-tjita melahirkan tjinta
-pada hidup diketjap langsung
-
-Tak seorang berniat pulang
-walau mati menanti.
-</pre>
-
-**Sumber:** Dari Daerah Kehadiran, Lapar, dan Kasih, 1958

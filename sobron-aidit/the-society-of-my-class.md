@@ -1,11 +1,15 @@
 ---
-id: "clzknhtw200006tanw7neh0l5"
-title: "the society of my class"
-author: "Sobron Aidit"
-slug: "the-society-of-my-class"
+content:
+  id: clzknhtw200006tanw7neh0l5
+  title: the society of my class
+  author: Sobron Aidit
+  slug: the-society-of-my-class
 ---
+### the society of my class
 
-# the society of my class
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clzknhtw200006tanw7neh0l5](https://ilalang.drepram.com/p/clzknhtw200006tanw7neh0l5)
 
 <pre>
 udin, seventeen times you have been kicked around
@@ -52,4 +56,3 @@ and for my class only the golden sunrays.
 
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
-

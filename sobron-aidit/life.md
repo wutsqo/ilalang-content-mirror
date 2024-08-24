@@ -1,11 +1,15 @@
 ---
-id: "clzkn3gtz0001pfl4qeab6rz3"
-title: "life"
-author: "Sobron Aidit"
-slug: "life"
+content:
+  id: clzkn3gtz0001pfl4qeab6rz3
+  title: life
+  author: Sobron Aidit
+  slug: life
 ---
+### life
 
-# life
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clzkn3gtz0001pfl4qeab6rz3](https://ilalang.drepram.com/p/clzkn3gtz0001pfl4qeab6rz3)
 
 <pre>
 life does not depend on some external force
@@ -29,4 +33,3 @@ and things that are important for you and me.
 
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
-

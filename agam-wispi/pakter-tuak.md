@@ -1,11 +1,15 @@
 ---
-id: "clz1212tv00002vlla40odm1f"
-title: "pakter tuak"
-author: "Agam Wispi"
-slug: "pakter-tuak"
+content:
+  id: clz1212tv00002vlla40odm1f
+  title: pakter tuak
+  author: Agam Wispi
+  slug: pakter-tuak
 ---
+### pakter tuak
 
-# pakter tuak
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz1212tv00002vlla40odm1f](https://ilalang.drepram.com/p/clz1212tv00002vlla40odm1f)
 
 <pre>
 putih tuak putih toba
@@ -19,4 +23,3 @@ Parapat, 5-11-56.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

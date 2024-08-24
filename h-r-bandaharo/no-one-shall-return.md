@@ -1,11 +1,15 @@
 ---
-id: "clzk38lbs0000dy7x8kvyf0wi"
-title: "no one shall return"
-author: "H.R. Bandaharo"
-slug: "no-one-shall-return"
+content:
+  id: clzk38lbs0000dy7x8kvyf0wi
+  title: no one shall return
+  author: H.R. Bandaharo
+  slug: no-one-shall-return
 ---
+### no one shall return
 
-# no one shall return
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/clzk38lbs0000dy7x8kvyf0wi](https://ilalang.drepram.com/p/clzk38lbs0000dy7x8kvyf0wi)
 
 <pre>
 the masses march towards the day
@@ -32,4 +36,3 @@ though death awaits ahead.
 
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
-

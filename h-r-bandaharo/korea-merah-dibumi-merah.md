@@ -1,11 +1,15 @@
 ---
-id: "cm02jaytu0001ovlfellxt0t2"
-title: "korea merah dibumi merah"
-author: "H.R. Bandaharo"
-slug: "korea-merah-dibumi-merah"
+content:
+  id: cm02jaytu0001ovlfellxt0t2
+  title: korea merah dibumi merah
+  author: H.R. Bandaharo
+  slug: korea-merah-dibumi-merah
 ---
+### korea merah dibumi merah
 
-# korea merah dibumi merah
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/cm02jaytu0001ovlfellxt0t2](https://ilalang.drepram.com/p/cm02jaytu0001ovlfellxt0t2)
 
 <pre align="right">
 untuk Song Yung
@@ -40,4 +44,3 @@ September 1959
 <br/><br/>
 
 **Sumber**: Dari Bumi Merah, 1963
-

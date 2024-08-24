@@ -1,13 +1,15 @@
 ---
-id: "clz00zgxa000012cbpor9hmlg"
-name: "Agam Wispi"
-profilePicture: "/assets/agam.jpg"
-yearOfLife: "1930 - 2003"
-description: "—petani mati menghamparkan sejarah—"
-slug: "agam-wispi"
+content:
+  id: clz00zgxa000012cbpor9hmlg
+  name: Agam Wispi
+  profilePicture: /assets/agam.jpg
+  yearOfLife: 1930 - 2003
+  description: —petani mati menghamparkan sejarah—
+  slug: agam-wispi
 ---
+## Agam Wispi (1930 - 2003)
 
-# Agam Wispi (1930 - 2003)
+[https://ilalang.drepram.com/a/clz00zgxa000012cbpor9hmlg](https://ilalang.drepram.com/a/clz00zgxa000012cbpor9hmlg)
 
 —petani mati menghamparkan sejarah—
 
@@ -16,10 +18,11 @@ slug: "agam-wispi"
 Lahir di Pangkalan Susu, Medan, Sumatra Utara, pada 31 Desember 1930. Menulis sejak kelas tiga SMA Pembaruan yang didirikan oleh Bakri Siregar, puisi-puisinya mulai diterbitkan harian Pendorong, bersamaan dengan dimulainya karir kewartawanan Agam di sana. Salah satu puisi tersebut, “Matinja Seorang Petani”, mengabadikan peristiwa pentraktoran ladang di Tandjung Morawa yang menewaskan seorang petani, L. Darman Tambunan. Pada 1957, Agam Wispi diterima sebagai anggota Lembaga Kebudajaan Rakjat dan dipercaya menjadi redaktur lembar kebudayaan Harian Rakjat, Djakarta, dan sempat mengenyam kursus jurnalistik di Berlin, Jerman Timur, antara 1958-1959. Bulan Mei 1965, Agam ditugaskan ke Vietnam untuk menjadi koresponden perang Harian Rakjat, dan bergabung dalam delegasi Indonesia untuk perayaan ulang tahun kemerdekaan ke-16 Republik Rakjat Tiongkok. Perubahan situasi politik pascakegagalan Gerakan 30 September 1965 mengakibatkan pencabutan kewarganegaraan Agam, yang meneruskan sisa hidupnya dengan bermukim di Jerman Timur (1973-1978) dan Belanda hingga tutup usia pada 1 Januari 2003.
 
 
+### elend
 
-<div class="page-break"></div>
+oleh Agam Wispi
 
-## elend
+[https://ilalang.drepram.com/p/clz030eae0000evif874v7ly8](https://ilalang.drepram.com/p/clz030eae0000evif874v7ly8)
 
 <pre align="right">
 untuk Renate Schifferli
@@ -42,9 +45,11 @@ Rübeland-Harz, 24 Djuni 1959.
 
 **Sumber**: Sahabat, 1959
 
-<div class="page-break"></div>
+### batu gorga
 
-## batu gorga
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz03qonu0000yc4dlq585aqz](https://ilalang.drepram.com/p/clz03qonu0000yc4dlq585aqz)
 
 <pre align="right">
 buat batara lubis
@@ -76,9 +81,11 @@ Parapat, 6-11-56
 
 **Sumber**: Jang Tak Terbungkamkan, 1960
 
-<div class="page-break"></div>
+### dresden
 
-## dresden
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0371r80000d731ckhhi313](https://ilalang.drepram.com/p/clz0371r80000d731ckhhi313)
 
 <pre>
 pradjurit, bertahanlah
@@ -98,9 +105,11 @@ Dresden, 1 Djuni 1959.
 
 **Sumber**: Sahabat, 1959
 
-<div class="page-break"></div>
+### gadis luar kota
 
-## gadis luar kota
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz147b220000th1jgul3sruh](https://ilalang.drepram.com/p/clz147b220000th1jgul3sruh)
 
 <pre>
 sudah bersobat djalan sunji dan gerimis
@@ -115,9 +124,11 @@ Medan, 31-8-55.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### ida
 
-## ida
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz148sjl0000sr0723ve94z7](https://ilalang.drepram.com/p/clz148sjl0000sr0723ve94z7)
 
 <pre>
 dari segala jang hilang tak kutjari lagi
@@ -132,9 +143,11 @@ Djakarta, 3-7-55.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### dera dan deru
 
-## dera dan deru
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz14a35m0001sr07ln7tuow9](https://ilalang.drepram.com/p/clz14a35m0001sr07ln7tuow9)
 
 <pre>
 djika deru mendera
@@ -153,9 +166,11 @@ Medan, 1956.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### harian rakjat
 
-## harian rakjat
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz14c97900009qg2g3gqcg9q](https://ilalang.drepram.com/p/clz14c97900009qg2g3gqcg9q)
 
 <pre>
 kerdja dari impiannja, indonesia bebas
@@ -170,9 +185,11 @@ Pintu besar, 25-1-61.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### gadis tani
 
-## gadis tani
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz13etg20000h0rm5skt4gml](https://ilalang.drepram.com/p/clz13etg20000h0rm5skt4gml)
 
 <pre>
 pernah rumputrumput bermusimbunga
@@ -205,9 +222,11 @@ Pematang Siantar, 1951.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### bastei
 
-## bastei
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0tdqyp00017x45s8lx0qlu](https://ilalang.drepram.com/p/clz0tdqyp00017x45s8lx0qlu)
 
 <pre>
 manusiapun kadang
@@ -235,9 +254,11 @@ Bastei, 1 Djuni 1959.
 
 **Sumber**: Sahabat, 1959
 
-<div class="page-break"></div>
+### pesta tani
 
-## pesta tani
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz13rbdo0002ovdqsmej7mog](https://ilalang.drepram.com/p/clz13rbdo0002ovdqsmej7mog)
 
 <pre align="center">1</pre>
 <pre>
@@ -287,9 +308,11 @@ gubernur itu dipetjat dan kaum tani berpesta.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### puntjak
 
-## puntjak
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz13w5ep0001wfyjt9yk6600](https://ilalang.drepram.com/p/clz13w5ep0001wfyjt9yk6600)
 
 <pre align="center">1</pre>
 <pre>
@@ -352,9 +375,11 @@ Puntjak, Djanuari 1961.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### elbe
 
-## elbe
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0tgz4b00027x45grl0u77g](https://ilalang.drepram.com/p/clz0tgz4b00027x45grl0u77g)
 
 <pre>
 pernah elbe merah
@@ -375,9 +400,11 @@ Bastei, 1 Djuni 1959.
 
 **Sumber**: Sahabat, 1959
 
-<div class="page-break"></div>
+### turang
 
-## turang
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12vz6j0004ddf90olyegbf](https://ilalang.drepram.com/p/clz12vz6j0004ddf90olyegbf)
 
 <pre align="right">
 kepada dan dari tangan
@@ -415,9 +442,11 @@ Merdeka-Utara, 28-2-58.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### di tikungan djalan
 
-## di tikungan djalan
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12pymb00062vll2k9begec](https://ilalang.drepram.com/p/clz12pymb00062vll2k9begec)
 
 <pre>
 kubatja wadjahmu
@@ -445,9 +474,11 @@ Dj. Surabaja, 10-6-57.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### semalam
 
-## semalam
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12r8fw0003ddf95hu9khlv](https://ilalang.drepram.com/p/clz12r8fw0003ddf95hu9khlv)
 
 <pre>
 pundak hitam berbasahan
@@ -473,9 +504,11 @@ Ekspres Djakarta-Surabaja, 27-2-57.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### dago
 
-## dago
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz13ckf70000ovdqpq9pacs5](https://ilalang.drepram.com/p/clz13ckf70000ovdqpq9pacs5)
 
 <pre>
 kelam malam ini
@@ -490,9 +523,11 @@ Bandung, 20-1-61.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### diatas bukit
 
-## diatas bukit
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz102i9000011260xeb4nhj7](https://ilalang.drepram.com/p/clz102i9000011260xeb4nhj7)
 
 <pre>
 dibahuku tersimbai djalinan totjang
@@ -512,9 +547,11 @@ Parapat, 5-11-56.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### tangan seorang buruh batuarang
 
-## tangan seorang buruh batuarang
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0t8n7700007x459awblyhl](https://ilalang.drepram.com/p/clz0t8n7700007x459awblyhl)
 
 <pre>
 trem lari²-andjing dibawah rintik saldju
@@ -578,9 +615,11 @@ Berlin 1959.
 
 **Sumber**: Sahabat, 1959
 
-<div class="page-break"></div>
+### czardas
 
-## czardas
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0ykeye0001tk3x87sevdpx](https://ilalang.drepram.com/p/clz0ykeye0001tk3x87sevdpx)
 
 <pre>
 mengapakah dia disini
@@ -608,9 +647,11 @@ Berlin, 31 Mei 1959.
 
 **Sumber**: Sahabat, 1959
 
-<div class="page-break"></div>
+### buchenwald
 
-## buchenwald
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0zd0hu0003hvmnmxerru0i](https://ilalang.drepram.com/p/clz0zd0hu0003hvmnmxerru0i)
 
 <pre>
 mereka gali lobang
@@ -650,9 +691,11 @@ Buchenwald, Djuli 1959.
 
 **Sumber**: Sahabat, 1959
 
-<div class="page-break"></div>
+### pameran leipzig
 
-## pameran leipzig
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0z2y9t0002hvmnzclqeo8e](https://ilalang.drepram.com/p/clz0z2y9t0002hvmnzclqeo8e)
 
 <pre align="right">
 (buat Mac Schlosser)
@@ -683,9 +726,11 @@ Leipzig, 22 Maret 1959.
 
 **Sumber**: Sahabat, 1959
 
-<div class="page-break"></div>
+### genosse
 
-## genosse
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0youzd0000zj0q6b2ob126](https://ilalang.drepram.com/p/clz0youzd0000zj0q6b2ob126)
 
 <pre>
 orang dongengi aku mimpi harapan
@@ -713,9 +758,11 @@ pergaulan di Djerman sekarang,
 jaitu seorang komunis.
 </pre>
 
-<div class="page-break"></div>
+### sahabat
 
-## sahabat
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0ze2bv0004hvmnzk4n8pp0](https://ilalang.drepram.com/p/clz0ze2bv0004hvmnzk4n8pp0)
 
 <pre>
 dua kali dimamah maut
@@ -730,9 +777,11 @@ Berlin, April 1959.
 
 **Sumber**: Sahabat, 1959
 
-<div class="page-break"></div>
+### Pebatu
 
-## Pebatu
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz100r9c00001260b5xkh7hc](https://ilalang.drepram.com/p/clz100r9c00001260b5xkh7hc)
 
 <pre>
 aspal turunaik
@@ -756,9 +805,11 @@ Pebatu, 3-11-56.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### Sadjak putih danau putih
 
-## Sadjak putih danau putih
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0zyp320002zj0qweerjum5](https://ilalang.drepram.com/p/clz0zyp320002zj0qweerjum5)
 
 <pre>
 kelam warna puntjak samosir
@@ -856,9 +907,11 @@ Parapat, 1957.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### kota tua
 
-## kota tua
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0z6hks0001zj0q1kbesqf5](https://ilalang.drepram.com/p/clz0z6hks0001zj0q1kbesqf5)
 
 <pre>
 harmonika itu berderai kesungai
@@ -883,9 +936,11 @@ Erfurt, Djuli 1959.
 
 **Sumber**: Sahabat, 1959
 
-<div class="page-break"></div>
+### Malam Toba
 
-## Malam Toba
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0zn5h60005hvmnaovnv4nc](https://ilalang.drepram.com/p/clz0zn5h60005hvmnaovnv4nc)
 
 <pre>
 merah
@@ -906,9 +961,11 @@ Parapat, 4-11-56.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### Sebelum aek nauli
 
-## Sebelum aek nauli
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz10ehyw00006gv0diiejqgq](https://ilalang.drepram.com/p/clz10ehyw00006gv0diiejqgq)
 
 <pre>
 diteluk pengabisan aku terdiam
@@ -943,9 +1000,11 @@ Parapat, 6-11-56.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### pakter tuak
 
-## pakter tuak
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz1212tv00002vlla40odm1f](https://ilalang.drepram.com/p/clz1212tv00002vlla40odm1f)
 
 <pre>
 putih tuak putih toba
@@ -960,9 +1019,11 @@ Parapat, 5-11-56.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### kita
 
-## kita
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz120aph0000dpqnkr6sf7h9](https://ilalang.drepram.com/p/clz120aph0000dpqnkr6sf7h9)
 
 <pre>
 kawan datang
@@ -982,9 +1043,11 @@ Asamlama, 4-9-57.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### Perdjalanan
 
-## Perdjalanan
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz124c8u0000f4k2nwtwqi7v](https://ilalang.drepram.com/p/clz124c8u0000f4k2nwtwqi7v)
 
 <pre>
 ke djakarta, saudara
@@ -1015,9 +1078,11 @@ kapal „ophir“, 24-2-57.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### perampasan
 
-## perampasan
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz13mtkm0000wfyjschzymht](https://ilalang.drepram.com/p/clz13mtkm0000wfyjschzymht)
 
 <pre>
 diantara tetesan keringat kuning manusia kerdja
@@ -1048,9 +1113,11 @@ Perkebunan teh Bah birong ulu, 3-2-1952.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### kongres
 
-## kongres
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz14dt9p0000dh9n98r7f389](https://ilalang.drepram.com/p/clz14dt9p0000dh9n98r7f389)
 
 <pre>
 sudah lama kita tak bertemu
@@ -1072,9 +1139,11 @@ Djl. Waringin, 30-9-59.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### lagu hidup
 
-## lagu hidup
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz14fqdx00019qg274jnns3z](https://ilalang.drepram.com/p/clz14fqdx00019qg274jnns3z)
 
 <pre>
 ada angin mengetuk djendela
@@ -1100,9 +1169,11 @@ Dj. Padang, 20-5-58.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### sekolah kita
 
-## sekolah kita
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz14iefg0001dh9nfq9gyqkm](https://ilalang.drepram.com/p/clz14iefg0001dh9nfq9gyqkm)
 
 <pre>
 setiap wadjah disini
@@ -1137,9 +1208,11 @@ Dj. Padang, 29-5-58.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### oktober
 
-## oktober
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz14kcz600029qg29m3zvobi](https://ilalang.drepram.com/p/clz14kcz600029qg29m3zvobi)
 
 <pre>
 sekalisekali dia datang
@@ -1170,9 +1243,11 @@ Asamlama, 28-2-58.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### keretaapi-tjepat
 
-## keretaapi-tjepat
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12sluu00072vllfivtc0ix](https://ilalang.drepram.com/p/clz12sluu00072vllfivtc0ix)
 
 <pre>
 ketjitak-ketjitung djakarta-bandung
@@ -1187,9 +1262,11 @@ Padalarang, 21-6-55.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### pelabuhan
 
-## pelabuhan
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12bjqr00022vll49o7pwyr](https://ilalang.drepram.com/p/clz12bjqr00022vll49o7pwyr)
 
 <pre>
 ada jang menggelepar
@@ -1209,9 +1286,11 @@ Priok, 30-6-57.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### sampur
 
-## sampur
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12cxvx00032vll9nlqmmq9](https://ilalang.drepram.com/p/clz12cxvx00032vll9nlqmmq9)
 
 <pre>
 lampu belum dipasang
@@ -1228,9 +1307,11 @@ Priok, 30-6-57.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### ibukota ku sajang
 
-## ibukota ku sajang
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12f2qa0000ddf9jnmpc4er](https://ilalang.drepram.com/p/clz12f2qa0000ddf9jnmpc4er)
 
 <pre align="right">
 buat H.
@@ -1264,9 +1345,11 @@ Ekspres Surabaja-Djakarta, 11-3-57.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### kesedihan
 
-## kesedihan
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12jonz0001ddf94853ldtg](https://ilalang.drepram.com/p/clz12jonz0001ddf94853ldtg)
 
 <pre align="right">
 buat Berlina Mirajani
@@ -1299,9 +1382,11 @@ Kajuawet, 12-10-58.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### tjorat tjoret dinding
 
-## tjorat tjoret dinding
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12mfob00052vll47kh3u9u](https://ilalang.drepram.com/p/clz12mfob00052vll47kh3u9u)
 
 <pre>
 memang kalian negarawan sedikit baik
@@ -1327,9 +1412,11 @@ Paseban, 9-10-58.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### kepada pelaut
 
-## kepada pelaut
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12nkq90002ddf9smvlmkod](https://ilalang.drepram.com/p/clz12nkq90002ddf9smvlmkod)
 
 <pre>
 sendja djatuh dilaut, jajang
@@ -1350,9 +1437,11 @@ Pintubesar, 26-2-58.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### amoi, pendjadjaroti
 
-## amoi, pendjadjaroti
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12a2ey00012vll3t7cyf9f](https://ilalang.drepram.com/p/clz12a2ey00012vll3t7cyf9f)
 
 <pre>
 untuk satu dolar dia senjum
@@ -1407,9 +1496,11 @@ Singapura, 15-6-56.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### tragedi
 
-## tragedi
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12gyyt00042vll150ig59v](https://ilalang.drepram.com/p/clz12gyyt00042vll150ig59v)
 
 <pre>
 pedjalan lorong jang kemalaman
@@ -1435,9 +1526,11 @@ Asamlama, 2-7-57.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### demokrasi
 
-## demokrasi
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz14nfu500039qg2cv5ik3vs](https://ilalang.drepram.com/p/clz14nfu500039qg2cv5ik3vs)
 
 <pre>
 djenderal, telah kami pasang
@@ -1467,9 +1560,11 @@ Djl. Waringin, 30-9-56.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### repolusi
 
-## repolusi
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz14pphh00008spf8qyonx7k](https://ilalang.drepram.com/p/clz14pphh00008spf8qyonx7k)
 
 <pre>
 kupantjing kau masuk hutan
@@ -1487,9 +1582,11 @@ Medan, 1957.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### melalui pintu terbuka
 
-## melalui pintu terbuka
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz176k9a0000neifcinc1nsr](https://ilalang.drepram.com/p/clz176k9a0000neifcinc1nsr)
 
 <pre>
 berdjalan kita tak atjuh dan tangan gemetar
@@ -1612,9 +1709,11 @@ Asamlama, 7-5-57.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### satumei digunung
 
-## satumei digunung
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz16pldx0000ctat2on5og2i](https://ilalang.drepram.com/p/clz16pldx0000ctat2on5og2i)
 
 <pre>
 ketjil motor ini ditjengkam gunung
@@ -1686,410 +1785,11 @@ Brastagi, 1-5-54.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### jang tak terbungkamkan
 
-## djakarta oi djakarta
+oleh Agam Wispi
 
-<div align="right">
-<strong>bagi Partai, diri kita</strong>
-<strong>jang tak mau diam bagai lautan</strong>
-</div>
-<pre>
-deru pertama sudah membuka kelopak sedang kau njenjak
-dan lambatlambat mentari djatuh dipinta atau tidak
-inilah napas kehidupan manusia jang bekerdja dan harus kerdja
-karena padanja ditantangkan katadua segenggam harapan
-        tinggal bara
-aih jajang, atap pada kemerdjap tjoklat merahtua
-terburai debur ombak kisahnja tingal busa djika kelasi dan
-        pantai sedang bertjinta
-sendirilah pelaut dipagut riuh kota dan atap pada kemerdjap
-        tjoklat merahtua
-sebab dibawah atap itu djantung berdegupan dan ada meranum
-        suatu mimpi
-maka djadi matanglah suara : tidak, kami tidak bermimpi tapi
-        kami lihat mimpi pagi hari
-bukankah generasi datang dan pergi telah mengangkat kakinja
-        dari lumpur ?
-pada kami diwariskan tawa pahit jang mau kami segarkan
-        busa hidup dari pantai jang ditinggalkan
-dan telah kami njatakan suatu kehadiran : kami adalah orangorang
-        jang betah bertempur
-</pre>
-<pre align="center">❋</pre>
-<pre>
-berapa mil sudah kau berdjalan sedjak tahu berdjalan ?
-ilmuhitung tidak bitjara sebab perdjalanan bukan pada kaki
-        jang dilangkahkan tapi apa jang dilalui suatu perdjalanan
-pengemispengemis djuga membuat perdjalanan, berdjalan dari
-        lorong kedjalanraja
-dari pintu kepintu toko dan medja restoran dimana setjumil
-        djiwa kerdil beladjar kenal djadi tuan
-pengemis bukanlah busa hidup debur ombak jang selalu mendamba
-        pantai
-dia adalah busa gelas dimana seorang tuan menipu dirinja
-        karena suatu kekalahan atau karena kekajaan jang
-        diperasnja
-siapakah jang lebih penipu kalau polisi menangkapi mereka
-        sebab besok „17 agustus“ orang mau berpesta ?
-atau kau jang djadikan pahlawan sekedar tugu dan bangga
-        sebab sebentar bisa terharu
-bilanglah ini suatu kebinatangan, tapi lebih manislah duit
-        sepitjis bagi sibotjah membeli lajangan
-menjentuh langit biru dengan mata alitnja betapa getaran
-        benang mampir didjantungnja
-bagi kalianlah kebinatangan teriak gersang „mampus kau,
-        laknat !“
-sebab kemampusan moral ini adalah bagi kalian jang mentjiptakan
-        sengsara dan kemiskinan, mendjadikannja
-        pendjara pikiran
-suatu kutukan bagi ratapan dunia lampau karena tak dapat
-        lagi mengertikan dunia kini ketika tjinta patah
-        membuat orang membiarkan dirinja ditelan mentah
-        mentah
-suatu kutukan bagi orang² tak berpaham akan dunia nanti
-        jang begitu manisnja melenggang datang
-suatu kutukan sebab dari gunung batupun ada tjelah dimana
-        lumut membungkus sinar kedalam dirinja dan daun
-        hidjau djadi tjemerlang oleh tjahaja
-suatu kutukan dan kepastian telah ditjiptakan
-sedjak tangantangan jang berminjak itu menggegarkan udara
-        dengan meriam Repolusi Oktober jang djaja
-sekali lagi : kalianlah kedjahatan jang sebenarnja sebab kerdja
-        bukan kedjahatan
-dan dengan sabar kami adjarkan kau : menangislah bagi dirimu
-        sendiri kalau tak bisa tertawa bersama kami
-dan djanganlah adjarkan kami keangkuhan tolol pikiran jang
-        berselubung semu sebab kami telah mengerti diadjar
-        oleh derita
-o, djanganlah hilangkan kesabaran kami, djanganlah katakan
-        lagi bahwa parasit, pengemis dan pemeraspemeras
-        sopan djuga kerdja
-aduh-mak, apa ini semua ?!
-tahulah bahwa tawa jang paling pahitpun dari klas buruh
-        bukanlah hak kalian jang terlontjat kekorsi kekuasaan
-        diatas kebodohan sementara
-tawa jang paling pahit baiklah bagi suatu kegagalan jang
-        peladjarannja diketjap mesra
-maka bertukarlah suatu djaman bagi siapa sebenarnja pendjara
-<pre align="center">❋</pre>
-<pre>
-sungguh, bahagia pulang kerdja ini hanja dimengerti oleh mereka
-        jang membina dunia baru
-dan melepaskan dirinja dari budak betapapun idealnja keakanan
-        itu
-bagi klas buruhlah kurasakan lontaran tjahaja lentera djalan
-        beradjuk dengan bajangan
-bahagia melangkah pulang kerdja ini bagai sehabis mentjium
-        segar bibir tjinta jang tanpa suatu utjapan meranggul
-        harapan dari baranja
-melangkah pulang kerdja ini tekadang bagai djumpa kawan
-        lama, salam dan apakabar membuat kau terharu
-        atas kawankawan jang gugur duluan
-melangkah pulang kerdja ini membuat kita sebagian dari mereka
-        jang berdjalan 10.000 mil kepangkalan kemerdekaan        
-        
-            djakarta oi djakarta
-            djendela bertirai biru muda
-
-kuketok pintu dikokok ajam
-rupanja kau letih menunggu
-ada tjun bertjakup sajang
-sebab kerdja waktu berlalu
-
-ah pinggang jang dipagut dan sadjak jang menjesak dada
-sampai djuga diruang ini deru mendjauh dan patah dipengkolan
-tjetjak mengedjar mangsanja kebalik lemari
-dan sunji mati sendiri
-ja, padamu ajang, kasih melaut duka tjerita
-membuat aku berenang menjelami malam dengan lampulampunja
-mendamba dunia dimana utjapan pernah merekam
-tungku sudah padam
-mari makanmalam
-
-tjerita malam ini djoang djakarta
-dindingnja slogan tangan pemuda
-tjerita esok pagi gerbang kota berdandan pesta
-dan tiap djantung didenjut satu suara
-hidup, rakjat pekerdja !
-
-            djakarta oi djakarta
-            djakarta oi djakarta
-</pre>
-<pre align="center">❋</pre>
-<pre>
-bulan serta bintangbintang sudah suram dan pagi kini sedang
-        dilahirkan
-berdjalan dibawah bulan memang indah tapi siapa berdjalan
-        sepandjang malam ?
-merekalah pengetjap malam jang setia, pendjaga jang kantuknja
-        dibajar serta desir gemetar daun kesepian
-        jang berbitjara
-merekalah pengetjap malam paling gelisah, pradjurit djaga
-        jang selalu tertanja-tanja
-akan hilangnja batas antara kawan dan lawan sebab malam
-        begitu menggoda
-menari, o, menarilah malam penuh hasrat dan geraikan rambutmu
-        diatas lelap
-siapakah perenggut malam hingga tidak pada nilainja, siang
-        djadi pandjang malam pekat singkat ?
-merekalah perampas nasi dari piringmu, o, malam penuh hasrat
-        dan siang jang bandjir keringat
-merekalah jang melahirkan pengemis dan kemiskinan djiwa
-        sekaligus, djagamalam dan ketidaksetiaan, keketjewaan
-        dan gigihnja perlawanan
-o, kianat jang diburu oleh kerdipan bintangbintang
-o, malam jang berlalu dalam kelembutannja dan terisakisak
-        dalam pelukanku
-tangan ini djuga jang menampung kepalamu dan membuntjah
-        rambutmu hingga wadjah djadi padu
-kaulah tjintaku jang bertanja apa kerdja seharian sebab pertanjaan
-        selalu dan selalu merangsang hidup
-tapi djanganlah tanjakan ini pada penganggur jang menghabisi
-        harinja siasia bukan karena salahnja
-sebab sendirian kembodja dipekarangan kian putih diangkat
-        gelap
-dan tak-berbaunja memgantar penganggur merindui kerdjanja
-pendjara itu ada disini, manis, ada disini --- tempat kedjahatan
-        berkeliaran dan penganggur tambah dilahirkan
-tapi dunia itu djuga ada disini, manis, abadabad dunia bebas
-        jang sedang dibina tanpa pendjara
-o, bajangan kawankawan jang gugur dan bersama dikubur
-o, djalan rindang jang kita tempuh bersama dan didada mendarah
-        luka
-o, perlawanan gigih dari klas jang bangkit betapapun rongkongan
-        kering dan bibir terasa pahit
-bagi kalianlah bunga ditaburkan pada suatu satumei-raja
-kita tjintai orang djauh jang suara dan wadjahnja entah bagaimana,
-        seorang musso atau seorang aidit, 
-        seorang harjono atau seorang amir
-seorang petani jang bangkit melawan tuantanah atau seorang 
-        supir
-ah, siapa dan siapa, djauh dan dekat telah diletakkan pada
-        artinja
-dimana duka djadi keras bagai badja dan nilai baru terus
-        ditempa
-ja, inilah ketakdjupan dan dahsatnja komunisme tapi djuga
-        kemegahan dunia baru jang sedang dibina
-pradjuritpradjurit kebebasan, bolehdjadi kaulah orangnja jang
-        membelai gadismu dan didusun anakanak berbesaran
-        atas tanah jang digadai bapaknja
-dan kau pradjurit muda bersendjata, bidangkan dadamu bagi
-        mereka jang penuh lumpur sawah
-bolehdjadi kaulah orangnja jang dengan tangan hitammu meletakkan
-        huruphurup dipertjetakan
-mengantar tjahaja ini keliku jang paling gelap, keruang paling
-        dalam dari hati manusia sebab berita kemenangan
-        telah melenjapkan lapar sedetik dari siksaannja
-dan ketjaplah ini betapa indahnja : sebagian dari kita, satu
-        antara kita
-o, hati jang hangus oleh bentji sajang oleh tjinta
-o, djanganlah tjoba mengindjakindjak tapalbatas tanah air ini
-kebebasan
-perdamaian
-</pre>
-<pre align="center">❋</pre>
-<pre>
-sibapak datang kekota
-desanja abu
-siibu bawa duka
-anaknja hangus
-sigadis berbekal remadja
-malamnja gintju
-
-tinggi, tinggilah simatahari
-tinggi malam tjiliwung tinggi
-tinggi, tinggilah lajangan meninggi
-putus benang apa peduli ?!
-
-disetasiun senen kereta kemalaman
-direl seneng tjinta digadaikan
-dikerdip teplok maut kasi senjuman
-
-sebab sekepal tanahpun tiada
-maka bunga didjambangan menunggu laju
-sebab padimudapun tuantanah punja
-tinggallah pematang jang menunggu
-
-ah, pradjurit jang bersiul didjembatan
-dari mana kau datang ?
-beginilah lagu dari ketjapi jang dipetik
-oleh hati sedang sendiri
-
-aku mengalami
-aku menderita
-aku bahagia
-djadi anak merdeka
-
-tiap tanja kita djawap dan tiap djawap membuat kita bertanja
-pergumulan antara jang kita pikirkan dan kita rasakan membuat
-        kita berbuat biarpun diri djadi kurus dan keras
-sedang tali ketjapi akan putuspun mendentingkan suara begitu
-        ramahnja
-dan dari kewadjaran sikap bisalah orang berbuat tanpa sesalan        
-maka perpisahan dengan kekasih derita mesra harapan djumpa
-        jang berlomba dari kepahitan jang dipendam
-        dalamdalam dan terbongkar dari akarnja
-tiap gerak berbekas tangan kita dalamnja dan tiap irama jang
-        sehembus dengan napas ini memantulkan sinar
-        kependjurupendjuru dan tebingtebing hidup
-berikan tanganmu, ajang, mari berlagu betapapun seraknja
-        suara
-djawapan dari dada terbuka telah membuat lagu ini kumandan
-        dari djaman kedjaman
-        
-            djakarta oi djakarta
-
-pundakpundak telandjang dimatangkan matahari
-mentjebur diair kasihpun tjair
-kutjutji badjumu hai pekerdja
-karena kualami apa jang kaualami
-kutjutji badanku sebab kupeluk kau dikelam nanti
-kutjutji rambutku sebab malam begitu buntjah melepas pagi
-
-tjiliwung bergojang
-hanjut antara tenang
-dan mengalir
-kutjutjikan badjumu, tuan, dan diair kasihku tjair
-tjemplungkan kakimu, tuan, dan tjintamu memandjat tepi
-tjeburkan dirimu, sajang, oplet berlari dan berlari
-
-            djakarta oi djakarta
-            
-malam mengambang diapung kikik djalang diwarung suram
-malam djadi terbenam larut dibawa deru oplet sampai djauh
-malam begitu dalam dibelam melodi harmonika dan kenangan
-        singgah tak diharapkan
-malam dihantjurkan ketjapi jang hilang datang hilang datang
-malam sisa terakir meremukkan dada kosong digerbong tua
-        selagi plesiran sudah sematjam kerdja
-malam putusputus kedjam ditikungan djakarta dalam gegas
-        langkah lelaki memburu rumahnja dan simanis
-         kehilangan mangsa
-malam adalah milik sendiri jang hangatnja direguk habis ---
-        tukangbetja bergelung dalam betjanja (sudah djam
-        berapa ? atau perlukah lagi tanja ini : sudah djam
-        berapa ?)
-jang tidur njenjak dan pagi begitu segar, berbahagialah !
-disini bahagia dan sengsara berlomba mengendap, saling
-        menghantjurkan
-betja bagai taman berbangku remangremang jang bawakan
-        tjahaja berajun didaun
-betja sepiring nasi hitam bagi betis meregang, randjang dan
-        pilem di „Grand“ malam ini
-bagi betjalah malam berdengungkan angin sambilalu, embun,
-        hudjan dan keringat jang memertjik tiada beda
-udjung sebuah djalan biarlah dilupakan karena jang merebah
-        didekap untuk dilepaskan, duilah, itjah manis mengetjek
-        begitu mandja
-itjah bersaing dengan djudi --- perampas jang baikhati ---
-        berangkali ada sisa terakir buat mimpi atau petimati
-         
-bagi merekalah nisan tiada bertanda bunga tapi kesajangan
-        itjah jang djatuharga
-bagi merekalah malam begitu dalam hingga permukaan tiada
-        berombak oleh dengking batuk kedinginan pengumpul
-        kertas dan kaleng rombengan
-disinilah gelandangan kota bahagia jang pernah didjandjikan
-        dan djandji jang tak pernah diutjapkan
-disinilah harini hanjalah kini, timbul atau tenggelam
-begitu dalam malam begitu pedih sekelumit melodi harmonika
-bergantunggantung dan hilang menjisakan sekeping harapan
-tapi bagi siapakah hati menjerah dan lagu hidup ini dipertjajakan ?
-        
-merekalah orangnja, pekerdja jang melepaskan dirinja dari
-        budak betapapun idealnja keakanan itu dan pagi
-        selalu membening
-dilahirkan dan selalu dilahirkan, bangkit dan segala bangkit,
-        bergerak dan selalu bergerak, segala hidup segala
-        menari
-
-            djakarta oi djakarta
-            kasih mengalir berdebu duka
-            
-asap sedang berangkat dari tjelah atap mengantar bau
-bahwa disana ada tngan perempuan, berangkali seorang ibu
-        berangkali babu
-aku lelaki tapi apa soalnja itu ?
-asap akan berangkat djuga dari tjelah atap membawa bau
-djika kusairkan perempuan bukan karena pelabuhan tempat
-        kapal mendjatuhkan djangkarnja
-demokrasi ? sukahati. koran jang datang pagi ini sama kita
-        batja : ada kianat ! intervensi !
-itulah soalnja, lelaki atau perempuan sama bangkit berlawan
-dan kusairkan djakarta bagi kalian jang bangkit berlawan
-namun seorang ibu ditempatkan agung diatas segala perempuan
-dan seorang bapak ditempatkan agung diatas segala lelaki
-karena mereka seperti lapangan rumput dimana hudjan dan
-        panas hidjau sebanding
-membalut makam pahlawan biar tak berbunga tapi jang berkata :
-dipangkuanku terbaring orangorang jang kau tjinta
-
-mendjulang kelangit debu dan dinding putih
-ai-mak-djang, musimbunga akan datang
-dan tiada pagar dapat mengurung pekarangan
-
-            djakarta oi djakarta
-            rambaterata perampas tumpas
-            
-djakarta oi djakarta
-sepotong harap tiarap bahaja
-            
-djakarta oi djakarta
-dibubung atap merpati hinggap
-
-djakarta oi djakarta
-tjoretan dinding tangan pemuda
-
-djakarta oi djakarta
-soraksorai bergembira
-
-djakarta oi djakarta
-tepuktepuk solidaritet dunia
-
-djakarta oi djakarta
-petik gitar hati bersuka
-
-djakarta oi djakarta
-mari menari pesta merdeka
-
-djakarta oi djakarta
-bahu basah tjiliwung lengkung
-
-djakarta oi djakarta
-siapa berani boleh tjoba
-
-djakarta oi djakarta
-buka djendela, rindu mendjenguk kedalamannja
-
-djakarta oi djakarta
-buka djendela, angin pagi dimimpi pagi
-
-djakarta oi djakarta
-buka djendela, genggam salam kepal tindju
-
-            djakarta oi djakarta
-            
-mendjulang tinggi merpati dan dinding putih
-ai-mak-djang, musimbunga akan datang
-dan tiada pagar dapat mengurung pekarangan
-
-            djakarta oi djakarta
-            
-jang berkawan
-jang berlawan
-
-</pre>
-<pre>
-asamlama-kajuawet, 29 djuni-21 oktober 1958.
-</pre>
-<br/><br/>
-
-**Sumber**: Jang Tak Terbungkamkan, 1959
-
-<div class="page-break"></div>
-
-## jang tak terbungkamkan
+[https://ilalang.drepram.com/p/clz164s9k0000r7bup1g9qls0](https://ilalang.drepram.com/p/clz164s9k0000r7bup1g9qls0)
 
 <pre align="right">
 buat Pak Sakir
@@ -2142,9 +1842,11 @@ Asamlama, 19-7-60.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### gugurnja seorang komponis
 
-## gugurnja seorang komponis
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz1a8med00008nmmmzg1musn](https://ilalang.drepram.com/p/clz1a8med00008nmmmzg1musn)
 
 <pre align="center">
 (In memoriam Cornel Simandjuntak)
@@ -2314,9 +2016,414 @@ Medan, 1956.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### djakarta oi djakarta
 
-## matinja seorang petani
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz1c2w8h0000lvfm0vfdtb0a](https://ilalang.drepram.com/p/clz1c2w8h0000lvfm0vfdtb0a)
+
+<div align="right">
+<strong>bagi Partai, diri kita</strong>
+<strong>jang tak mau diam bagai lautan</strong>
+</div>
+<pre>
+deru pertama sudah membuka kelopak sedang kau njenjak
+dan lambatlambat mentari djatuh dipinta atau tidak
+inilah napas kehidupan manusia jang bekerdja dan harus kerdja
+karena padanja ditantangkan katadua segenggam harapan
+        tinggal bara
+aih jajang, atap pada kemerdjap tjoklat merahtua
+terburai debur ombak kisahnja tingal busa djika kelasi dan
+        pantai sedang bertjinta
+sendirilah pelaut dipagut riuh kota dan atap pada kemerdjap
+        tjoklat merahtua
+sebab dibawah atap itu djantung berdegupan dan ada meranum
+        suatu mimpi
+maka djadi matanglah suara : tidak, kami tidak bermimpi tapi
+        kami lihat mimpi pagi hari
+bukankah generasi datang dan pergi telah mengangkat kakinja
+        dari lumpur ?
+pada kami diwariskan tawa pahit jang mau kami segarkan
+        busa hidup dari pantai jang ditinggalkan
+dan telah kami njatakan suatu kehadiran : kami adalah orangorang
+        jang betah bertempur
+</pre>
+<pre align="center">❋</pre>
+<pre>
+berapa mil sudah kau berdjalan sedjak tahu berdjalan ?
+ilmuhitung tidak bitjara sebab perdjalanan bukan pada kaki
+        jang dilangkahkan tapi apa jang dilalui suatu perdjalanan
+pengemispengemis djuga membuat perdjalanan, berdjalan dari
+        lorong kedjalanraja
+dari pintu kepintu toko dan medja restoran dimana setjumil
+        djiwa kerdil beladjar kenal djadi tuan
+pengemis bukanlah busa hidup debur ombak jang selalu mendamba
+        pantai
+dia adalah busa gelas dimana seorang tuan menipu dirinja
+        karena suatu kekalahan atau karena kekajaan jang
+        diperasnja
+siapakah jang lebih penipu kalau polisi menangkapi mereka
+        sebab besok „17 agustus“ orang mau berpesta ?
+atau kau jang djadikan pahlawan sekedar tugu dan bangga
+        sebab sebentar bisa terharu
+bilanglah ini suatu kebinatangan, tapi lebih manislah duit
+        sepitjis bagi sibotjah membeli lajangan
+menjentuh langit biru dengan mata alitnja betapa getaran
+        benang mampir didjantungnja
+bagi kalianlah kebinatangan teriak gersang „mampus kau,
+        laknat !“
+sebab kemampusan moral ini adalah bagi kalian jang mentjiptakan
+        sengsara dan kemiskinan, mendjadikannja
+        pendjara pikiran
+suatu kutukan bagi ratapan dunia lampau karena tak dapat
+        lagi mengertikan dunia kini ketika tjinta patah
+        membuat orang membiarkan dirinja ditelan mentah
+        mentah
+suatu kutukan bagi orang² tak berpaham akan dunia nanti
+        jang begitu manisnja melenggang datang
+suatu kutukan sebab dari gunung batupun ada tjelah dimana
+        lumut membungkus sinar kedalam dirinja dan daun
+        hidjau djadi tjemerlang oleh tjahaja
+suatu kutukan dan kepastian telah ditjiptakan
+sedjak tangantangan jang berminjak itu menggegarkan udara
+        dengan meriam Repolusi Oktober jang djaja
+sekali lagi : kalianlah kedjahatan jang sebenarnja sebab kerdja
+        bukan kedjahatan
+dan dengan sabar kami adjarkan kau : menangislah bagi dirimu
+        sendiri kalau tak bisa tertawa bersama kami
+dan djanganlah adjarkan kami keangkuhan tolol pikiran jang
+        berselubung semu sebab kami telah mengerti diadjar
+        oleh derita
+o, djanganlah hilangkan kesabaran kami, djanganlah katakan
+        lagi bahwa parasit, pengemis dan pemeraspemeras
+        sopan djuga kerdja
+aduh-mak, apa ini semua ?!
+tahulah bahwa tawa jang paling pahitpun dari klas buruh
+        bukanlah hak kalian jang terlontjat kekorsi kekuasaan
+        diatas kebodohan sementara
+tawa jang paling pahit baiklah bagi suatu kegagalan jang
+        peladjarannja diketjap mesra
+maka bertukarlah suatu djaman bagi siapa sebenarnja pendjara
+</pre>
+<pre align="center">❋</pre>
+<pre>
+sungguh, bahagia pulang kerdja ini hanja dimengerti oleh mereka
+        jang membina dunia baru
+dan melepaskan dirinja dari budak betapapun idealnja keakanan
+        itu
+bagi klas buruhlah kurasakan lontaran tjahaja lentera djalan
+        beradjuk dengan bajangan
+bahagia melangkah pulang kerdja ini bagai sehabis mentjium
+        segar bibir tjinta jang tanpa suatu utjapan meranggul
+        harapan dari baranja
+melangkah pulang kerdja ini tekadang bagai djumpa kawan
+        lama, salam dan apakabar membuat kau terharu
+        atas kawankawan jang gugur duluan
+melangkah pulang kerdja ini membuat kita sebagian dari mereka
+        jang berdjalan 10.000 mil kepangkalan kemerdekaan        
+        
+        djakarta oi djakarta
+        djendela bertirai biru muda
+
+kuketok pintu dikokok ajam
+rupanja kau letih menunggu
+ada tjun bertjakup sajang
+sebab kerdja waktu berlalu
+
+ah pinggang jang dipagut dan sadjak jang menjesak dada
+sampai djuga diruang ini deru mendjauh dan patah dipengkolan
+tjetjak mengedjar mangsanja kebalik lemari
+dan sunji mati sendiri
+ja, padamu ajang, kasih melaut duka tjerita
+membuat aku berenang menjelami malam dengan lampulampunja
+mendamba dunia dimana utjapan pernah merekam
+tungku sudah padam
+mari makanmalam
+
+tjerita malam ini djoang djakarta
+dindingnja slogan tangan pemuda
+tjerita esok pagi gerbang kota berdandan pesta
+dan tiap djantung didenjut satu suara
+hidup, rakjat pekerdja !
+
+        djakarta oi djakarta
+        djakarta oi djakarta
+</pre>
+<pre align="center">❋</pre>
+<pre>
+bulan serta bintangbintang sudah suram dan pagi kini sedang
+        dilahirkan
+berdjalan dibawah bulan memang indah tapi siapa berdjalan
+        sepandjang malam ?
+merekalah pengetjap malam jang setia, pendjaga jang kantuknja
+        dibajar serta desir gemetar daun kesepian
+        jang berbitjara
+merekalah pengetjap malam paling gelisah, pradjurit djaga
+        jang selalu tertanja-tanja
+akan hilangnja batas antara kawan dan lawan sebab malam
+        begitu menggoda
+menari, o, menarilah malam penuh hasrat dan geraikan rambutmu
+        diatas lelap
+siapakah perenggut malam hingga tidak pada nilainja, siang
+        djadi pandjang malam pekat singkat ?
+merekalah perampas nasi dari piringmu, o, malam penuh hasrat
+        dan siang jang bandjir keringat
+merekalah jang melahirkan pengemis dan kemiskinan djiwa
+        sekaligus, djagamalam dan ketidaksetiaan, keketjewaan
+        dan gigihnja perlawanan
+o, kianat jang diburu oleh kerdipan bintangbintang
+o, malam jang berlalu dalam kelembutannja dan terisakisak
+        dalam pelukanku
+tangan ini djuga jang menampung kepalamu dan membuntjah
+        rambutmu hingga wadjah djadi padu
+kaulah tjintaku jang bertanja apa kerdja seharian sebab pertanjaan
+        selalu dan selalu merangsang hidup
+tapi djanganlah tanjakan ini pada penganggur jang menghabisi
+        harinja siasia bukan karena salahnja
+sebab sendirian kembodja dipekarangan kian putih diangkat
+        gelap
+dan tak-berbaunja memgantar penganggur merindui kerdjanja
+pendjara itu ada disini, manis, ada disini --- tempat kedjahatan
+        berkeliaran dan penganggur tambah dilahirkan
+tapi dunia itu djuga ada disini, manis, abadabad dunia bebas
+        jang sedang dibina tanpa pendjara
+o, bajangan kawankawan jang gugur dan bersama dikubur
+o, djalan rindang jang kita tempuh bersama dan didada mendarah
+        luka
+o, perlawanan gigih dari klas jang bangkit betapapun rongkongan
+        kering dan bibir terasa pahit
+bagi kalianlah bunga ditaburkan pada suatu satumei-raja
+kita tjintai orang djauh jang suara dan wadjahnja entah bagaimana,
+        seorang musso atau seorang aidit, 
+        seorang harjono atau seorang amir
+seorang petani jang bangkit melawan tuantanah atau seorang 
+        supir
+ah, siapa dan siapa, djauh dan dekat telah diletakkan pada
+        artinja
+dimana duka djadi keras bagai badja dan nilai baru terus
+        ditempa
+ja, inilah ketakdjupan dan dahsatnja komunisme tapi djuga
+        kemegahan dunia baru jang sedang dibina
+pradjuritpradjurit kebebasan, bolehdjadi kaulah orangnja jang
+        membelai gadismu dan didusun anakanak berbesaran
+        atas tanah jang digadai bapaknja
+dan kau pradjurit muda bersendjata, bidangkan dadamu bagi
+        mereka jang penuh lumpur sawah
+bolehdjadi kaulah orangnja jang dengan tangan hitammu meletakkan
+        huruphurup dipertjetakan
+mengantar tjahaja ini keliku jang paling gelap, keruang paling
+        dalam dari hati manusia sebab berita kemenangan
+        telah melenjapkan lapar sedetik dari siksaannja
+dan ketjaplah ini betapa indahnja : sebagian dari kita, satu
+        antara kita
+o, hati jang hangus oleh bentji sajang oleh tjinta
+o, djanganlah tjoba mengindjakindjak tapalbatas tanah air ini
+kebebasan
+perdamaian
+</pre>
+<pre align="center">❋</pre>
+<pre>
+sibapak datang kekota
+desanja abu
+siibu bawa duka
+anaknja hangus
+sigadis berbekal remadja
+malamnja gintju
+
+tinggi, tinggilah simatahari
+tinggi malam tjiliwung tinggi
+tinggi, tinggilah lajangan meninggi
+putus benang apa peduli ?!
+
+disetasiun senen kereta kemalaman
+direl seneng tjinta digadaikan
+dikerdip teplok maut kasi senjuman
+
+sebab sekepal tanahpun tiada
+maka bunga didjambangan menunggu laju
+sebab padimudapun tuantanah punja
+tinggallah pematang jang menunggu
+
+ah, pradjurit jang bersiul didjembatan
+dari mana kau datang ?
+beginilah lagu dari ketjapi jang dipetik
+oleh hati sedang sendiri
+
+aku mengalami
+aku menderita
+aku bahagia
+djadi anak merdeka
+
+tiap tanja kita djawap dan tiap djawap membuat kita bertanja
+pergumulan antara jang kita pikirkan dan kita rasakan membuat
+        kita berbuat biarpun diri djadi kurus dan keras
+sedang tali ketjapi akan putuspun mendentingkan suara begitu
+        ramahnja
+dan dari kewadjaran sikap bisalah orang berbuat tanpa sesalan        
+maka perpisahan dengan kekasih derita mesra harapan djumpa
+        jang berlomba dari kepahitan jang dipendam
+        dalamdalam dan terbongkar dari akarnja
+tiap gerak berbekas tangan kita dalamnja dan tiap irama jang
+        sehembus dengan napas ini memantulkan sinar
+        kependjurupendjuru dan tebingtebing hidup
+berikan tanganmu, ajang, mari berlagu betapapun seraknja
+        suara
+djawapan dari dada terbuka telah membuat lagu ini kumandan
+        dari djaman kedjaman
+        
+        djakarta oi djakarta
+
+pundakpundak telandjang dimatangkan matahari
+mentjebur diair kasihpun tjair
+kutjutji badjumu hai pekerdja
+karena kualami apa jang kaualami
+kutjutji badanku sebab kupeluk kau dikelam nanti
+kutjutji rambutku sebab malam begitu buntjah melepas pagi
+
+tjiliwung bergojang
+hanjut antara tenang
+dan mengalir
+kutjutjikan badjumu, tuan, dan diair kasihku tjair
+tjemplungkan kakimu, tuan, dan tjintamu memandjat tepi
+tjeburkan dirimu, sajang, oplet berlari dan berlari
+
+        djakarta oi djakarta
+        
+malam mengambang diapung kikik djalang diwarung suram
+malam djadi terbenam larut dibawa deru oplet sampai djauh
+malam begitu dalam dibelam melodi harmonika dan kenangan
+        singgah tak diharapkan
+malam dihantjurkan ketjapi jang hilang datang hilang datang
+malam sisa terakir meremukkan dada kosong digerbong tua
+        selagi plesiran sudah sematjam kerdja
+malam putusputus kedjam ditikungan djakarta dalam gegas
+        langkah lelaki memburu rumahnja dan simanis
+        kehilangan mangsa
+malam adalah milik sendiri jang hangatnja direguk habis ---
+        tukangbetja bergelung dalam betjanja (sudah djam
+        berapa ? atau perlukah lagi tanja ini : sudah djam
+        berapa ?)
+jang tidur njenjak dan pagi begitu segar, berbahagialah !
+disini bahagia dan sengsara berlomba mengendap, saling
+        menghantjurkan
+betja bagai taman berbangku remangremang jang bawakan
+        tjahaja berajun didaun
+betja sepiring nasi hitam bagi betis meregang, randjang dan
+        pilem di „Grand“ malam ini
+bagi betjalah malam berdengungkan angin sambilalu, embun,
+        hudjan dan keringat jang memertjik tiada beda
+udjung sebuah djalan biarlah dilupakan karena jang merebah
+        didekap untuk dilepaskan, duilah, itjah manis mengetjek
+        begitu mandja
+itjah bersaing dengan djudi --- perampas jang baikhati ---
+        berangkali ada sisa terakir buat mimpi atau petimati
+        
+bagi merekalah nisan tiada bertanda bunga tapi kesajangan
+        itjah jang djatuharga
+bagi merekalah malam begitu dalam hingga permukaan tiada
+        berombak oleh dengking batuk kedinginan pengumpul
+        kertas dan kaleng rombengan
+disinilah gelandangan kota bahagia jang pernah didjandjikan
+        dan djandji jang tak pernah diutjapkan
+disinilah harini hanjalah kini, timbul atau tenggelam
+begitu dalam malam begitu pedih sekelumit melodi harmonika
+bergantunggantung dan hilang menjisakan sekeping harapan
+tapi bagi siapakah hati menjerah dan lagu hidup ini dipertjajakan ?
+        
+merekalah orangnja, pekerdja jang melepaskan dirinja dari
+        budak betapapun idealnja keakanan itu dan pagi
+        selalu membening
+dilahirkan dan selalu dilahirkan, bangkit dan segala bangkit,
+        bergerak dan selalu bergerak, segala hidup segala
+        menari
+
+        djakarta oi djakarta
+        kasih mengalir berdebu duka
+        
+asap sedang berangkat dari tjelah atap mengantar bau
+bahwa disana ada tngan perempuan, berangkali seorang ibu
+        berangkali babu
+aku lelaki tapi apa soalnja itu ?
+asap akan berangkat djuga dari tjelah atap membawa bau
+djika kusairkan perempuan bukan karena pelabuhan tempat
+        kapal mendjatuhkan djangkarnja
+demokrasi ? sukahati. koran jang datang pagi ini sama kita
+        batja : ada kianat ! intervensi !
+itulah soalnja, lelaki atau perempuan sama bangkit berlawan
+dan kusairkan djakarta bagi kalian jang bangkit berlawan
+namun seorang ibu ditempatkan agung diatas segala perempuan
+dan seorang bapak ditempatkan agung diatas segala lelaki
+karena mereka seperti lapangan rumput dimana hudjan dan
+        panas hidjau sebanding
+membalut makam pahlawan biar tak berbunga tapi jang berkata :
+dipangkuanku terbaring orangorang jang kau tjinta
+
+mendjulang kelangit debu dan dinding putih
+ai-mak-djang, musimbunga akan datang
+dan tiada pagar dapat mengurung pekarangan
+
+        djakarta oi djakarta
+        rambaterata perampas tumpas
+        
+djakarta oi djakarta
+sepotong harap tiarap bahaja
+        
+djakarta oi djakarta
+dibubung atap merpati hinggap
+
+djakarta oi djakarta
+tjoretan dinding tangan pemuda
+
+djakarta oi djakarta
+soraksorai bergembira
+
+djakarta oi djakarta
+tepuktepuk solidaritet dunia
+
+djakarta oi djakarta
+petik gitar hati bersuka
+
+djakarta oi djakarta
+mari menari pesta merdeka
+
+djakarta oi djakarta
+bahu basah tjiliwung lengkung
+
+djakarta oi djakarta
+siapa berani boleh tjoba
+
+djakarta oi djakarta
+buka djendela, rindu mendjenguk kedalamannja
+
+djakarta oi djakarta
+buka djendela, angin pagi dimimpi pagi
+
+djakarta oi djakarta
+buka djendela, genggam salam kepal tindju
+
+        djakarta oi djakarta
+        
+mendjulang tinggi merpati dan dinding putih
+ai-mak-djang, musimbunga akan datang
+dan tiada pagar dapat mengurung pekarangan
+
+        djakarta oi djakarta
+        
+jang berkawan
+jang berlawan          
+</pre>
+<pre>
+asamlama-kajuawet, 29 djuni-21 oktober 1958.
+</pre>
+<br /><br />
+  
+**Sumber**: Jang Tak Terbungkamkan, 1959
+
+### matinja seorang petani
+
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz1933es0000w6wm5bazk7m6](https://ilalang.drepram.com/p/clz1933es0000w6wm5bazk7m6)
 
 <pre align="right">
 buat L. Darman Tambunan
@@ -2413,9 +2520,11 @@ kita gedor
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### njai munah
 
-## njai munah
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz10c0ay0000icrpacx2bxhj](https://ilalang.drepram.com/p/clz10c0ay0000icrpacx2bxhj)
 
 <pre align="center">
 1
@@ -2500,9 +2609,11 @@ Perkebunan-teh Bah birong ulu, 1951.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### petani jang diusir
 
-## petani jang diusir
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz13k5y70001ovdqy8ytq8iv](https://ilalang.drepram.com/p/clz13k5y70001ovdqy8ytq8iv)
 
 <pre>
 kau mentjangkul
@@ -2560,9 +2671,11 @@ Medan, 31-7-1952.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### djika kau sudah besar, jutta
 
-## djika kau sudah besar, jutta
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0sywh50000fx814akqdtap](https://ilalang.drepram.com/p/clz0sywh50000fx814akqdtap)
 
 <pre>
 dibawah rintik saldju
@@ -2641,9 +2754,11 @@ Stalin Allee, 13 Desember 1958.
 
 **Sumber**: Sahabat, 1959
 
-<div class="page-break"></div>
+### plakat
 
-## plakat
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz16fozs0001r7bu20iafvla](https://ilalang.drepram.com/p/clz16fozs0001r7bu20iafvla)
 
 <pre align="right">
 buat ulangtahun Partai
@@ -2737,9 +2852,11 @@ Pintubesar, 22-5-60.
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
 
-<div class="page-break"></div>
+### revolution
 
-## revolution
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clzknj3tz00016tanl1fyr9n6](https://ilalang.drepram.com/p/clzknj3tz00016tanl1fyr9n6)
 
 <pre>
 I entice you into the woods, my love
@@ -2756,9 +2873,11 @@ love bleeds on until death.
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
 
-<div class="page-break"></div>
+### democracy
 
-## democracy
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clzknn0s500026tanzxsmlo50](https://ilalang.drepram.com/p/clzknn0s500026tanzxsmlo50)
 
 <pre>
 generals, it's we that adorned
@@ -2788,9 +2907,11 @@ and above all, give us freedom to speak.
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
 
-<div class="page-break"></div>
+### the death of a peasant
 
-## the death of a peasant
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clzknz1my00036tanjn9gdmwt](https://ilalang.drepram.com/p/clzknz1my00036tanjn9gdmwt)
 
 <pre align="right">
 to L. Darman Tambunan
@@ -2888,9 +3009,11 @@ we'll bang at every door.
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
 
-<div class="page-break"></div>
+### Latini
 
-## Latini
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/cm02l397f0000zb269807pbz0](https://ilalang.drepram.com/p/cm02l397f0000zb269807pbz0)
 
 <pre>
 latini, ah, latini

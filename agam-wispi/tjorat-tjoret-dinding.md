@@ -1,11 +1,15 @@
 ---
-id: "clz12mfob00052vll47kh3u9u"
-title: "tjorat tjoret dinding"
-author: "Agam Wispi"
-slug: "tjorat-tjoret-dinding"
+content:
+  id: clz12mfob00052vll47kh3u9u
+  title: tjorat tjoret dinding
+  author: Agam Wispi
+  slug: tjorat-tjoret-dinding
 ---
+### tjorat tjoret dinding
 
-# tjorat tjoret dinding
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12mfob00052vll47kh3u9u](https://ilalang.drepram.com/p/clz12mfob00052vll47kh3u9u)
 
 <pre>
 memang kalian negarawan sedikit baik
@@ -30,4 +34,3 @@ Paseban, 9-10-58.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

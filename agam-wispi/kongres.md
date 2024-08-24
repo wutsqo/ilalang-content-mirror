@@ -1,11 +1,15 @@
 ---
-id: "clz14dt9p0000dh9n98r7f389"
-title: "kongres"
-author: "Agam Wispi"
-slug: "kongres"
+content:
+  id: clz14dt9p0000dh9n98r7f389
+  title: kongres
+  author: Agam Wispi
+  slug: kongres
 ---
+### kongres
 
-# kongres
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz14dt9p0000dh9n98r7f389](https://ilalang.drepram.com/p/clz14dt9p0000dh9n98r7f389)
 
 <pre>
 sudah lama kita tak bertemu
@@ -26,4 +30,3 @@ Djl. Waringin, 30-9-59.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

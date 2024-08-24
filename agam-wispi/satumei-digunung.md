@@ -1,11 +1,15 @@
 ---
-id: "clz16pldx0000ctat2on5og2i"
-title: "satumei digunung"
-author: "Agam Wispi"
-slug: "satumei-digunung"
+content:
+  id: clz16pldx0000ctat2on5og2i
+  title: satumei digunung
+  author: Agam Wispi
+  slug: satumei-digunung
 ---
+### satumei digunung
 
-# satumei digunung
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz16pldx0000ctat2on5og2i](https://ilalang.drepram.com/p/clz16pldx0000ctat2on5og2i)
 
 <pre>
 ketjil motor ini ditjengkam gunung
@@ -76,4 +80,3 @@ Brastagi, 1-5-54.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

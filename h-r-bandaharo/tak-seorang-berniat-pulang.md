@@ -1,11 +1,15 @@
 ---
-id: "clzsl5sx90000dwohltca2tsj"
-title: "tak seorang berniat pulang"
-author: "H.R. Bandaharo"
-slug: "tak-seorang-berniat-pulang"
+content:
+  id: clzsl5sx90000dwohltca2tsj
+  title: tak seorang berniat pulang
+  author: H.R. Bandaharo
+  slug: tak-seorang-berniat-pulang
 ---
+### tak seorang berniat pulang
 
-# tak seorang berniat pulang
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/clzsl5sx90000dwohltca2tsj](https://ilalang.drepram.com/p/clzsl5sx90000dwohltca2tsj)
 
 <pre>
 Barisan menjongsong haridatang
@@ -26,4 +30,3 @@ walau mati menanti.
 </pre>
 
 **Sumber:** Dari Daerah Kehadiran, Lapar, dan Kasih, 1958
-

@@ -1,11 +1,15 @@
 ---
-id: "cm02jfc5n000045a2m9l4tqsw"
-title: "lelaki korea"
-author: "H.R. Bandaharo"
-slug: "lelaki-korea"
+content:
+  id: cm02jfc5n000045a2m9l4tqsw
+  title: lelaki korea
+  author: H.R. Bandaharo
+  slug: lelaki-korea
 ---
+### lelaki korea
 
-# lelaki korea
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/cm02jfc5n000045a2m9l4tqsw](https://ilalang.drepram.com/p/cm02jfc5n000045a2m9l4tqsw)
 
 <pre align="right">
 untuk Kim Byong Hyu
@@ -41,4 +45,3 @@ September 1959
 <br/><br/>
 
 **Sumber**: Dari Bumi Merah, 1963
-

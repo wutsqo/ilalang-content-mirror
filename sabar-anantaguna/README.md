@@ -1,13 +1,15 @@
 ---
-id: "clzi0byop0000aswhl8qnt9cj"
-name: "Sabar Anantaguna"
-profilePicture: "/assets/anantaguna.jpeg"
-yearOfLife: "1930 - 2014"
-description: "—kalau daun berbisik di pagi manis—"
-slug: "sabar-anantaguna"
+content:
+  id: clzi0byop0000aswhl8qnt9cj
+  name: Sabar Anantaguna
+  profilePicture: /assets/anantaguna.jpeg
+  yearOfLife: 1930 - 2014
+  description: —kalau daun berbisik di pagi manis—
+  slug: sabar-anantaguna
 ---
+## Sabar Anantaguna (1930 - 2014)
 
-# Sabar Anantaguna (1930 - 2014)
+[https://ilalang.drepram.com/a/clzi0byop0000aswhl8qnt9cj](https://ilalang.drepram.com/a/clzi0byop0000aswhl8qnt9cj)
 
 —kalau daun berbisik di pagi manis—
 
@@ -16,10 +18,11 @@ slug: "sabar-anantaguna"
 Lahir dengan nama Santoso bin Sutopangarso di Klaten, Jawa Tengah, pada 9 Agustus 1930. Menempuh pendidikan dasar dan menengah Kota Surakarta, perkawanannya dengan Wakil Ketua II Central Comite Partai Komunis Indonesia, Njoto, membawa Anantaguna ke lingkaran penulis-penulis muda yang mendirikan Lembaga Kebudajaan Rakjat (Lekra) pada 17 Agustus 1950. Mula-mula menulis puisi, Anantaguna mengembangkan kepenulisannya dengan menerbitkan esai dan cerita pendek yang berwahana di lembar kebudayaan Harian Rakjat, HR Minggu, dan majalah terbitan Lekra, Zaman Baru, serta sejumlah kumpulan seperti Api 26 (1961) dan Jang Bertanah Air Tidak Bertanah (1962). Dalam Kongres ke-I Lekra yang diselenggarakan di Solo pada 1959, Anantaguna terpilih sebagai anggota Sekretariat Pimpinan Pusat Lekra, bersama Njoto, Joebaar Ajoeb, dan Oey Hay Djoen. Pada 1965, menyusul kegagalan Gerakan 30 September, Anantaguna ditangkap dan ditahan di Penjara Salemba, Djakarta, untuk kemudian turut diasingkan bersama 12.000 tahanan laki-laki di Pulau Buru, sampai 1978. Sesudah dibebaskan pada 1980, Anantaguna tetap produktif menulis dengan menggunakan berbagai nama samaran, bahkan memenangkan Sayembara Menulis Departemen Pendidikan dan Kebudayaan 1980. Dua kumpulan puisi Kecapi Terali Besi (1999) dan Puisi-Puisi dari Penjara (2010) menjadi karya terakhirnya sebelum tutup usia pada 18 Juli 2014.
 
 
+### to people's bandung
 
-<div class="page-break"></div>
+oleh Sabar Anantaguna
 
-## to people's bandung
+[https://ilalang.drepram.com/p/clzi3dd7j0001y7cmtm6qjyxs](https://ilalang.drepram.com/p/clzi3dd7j0001y7cmtm6qjyxs)
 
 <pre> 
 wherever they come from, the people are the people
@@ -57,9 +60,11 @@ peace in all the world.
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962 
 **Penerjemah**: Bintang Suradi
 
-<div class="page-break"></div>
+### Ditanah tak pernah menjerah
 
-## Ditanah tak pernah menjerah
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/clzi29le20000qfc2ylkr4g9t](https://ilalang.drepram.com/p/clzi29le20000qfc2ylkr4g9t)
 
 <pre>
 Tak usah kusebutkan namanja, dik
@@ -234,9 +239,11 @@ Surabaja 1961.
 
 **Sumber**: Matinja Seorang Petani, 1961
 
-<div class="page-break"></div>
+### Jang mempertahankan tanah
 
-## Jang mempertahankan tanah
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/clzi2i5xf0000juhmsh4im7wm](https://ilalang.drepram.com/p/clzi2i5xf0000juhmsh4im7wm)
 
 <pre>
 Ditempat keringat tertumpah
@@ -259,9 +266,11 @@ Aku jang mati hati tegak !
 
 **Sumber**: Matinja Seorang Petani, 1961
 
-<div class="page-break"></div>
+### the downtrodden shoulder freedom
 
-## the downtrodden shoulder freedom
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/clzi2uevx0001juhmmjkhje3l](https://ilalang.drepram.com/p/clzi2uevx0001juhmmjkhje3l)
 
 <pre>
 we the downtrodden shoulder freedom
@@ -297,9 +306,11 @@ we've kept our country from becoming a prison
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
 
-<div class="page-break"></div>
+### jamila
 
-## jamila
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/clzi377gj0000y7cmornn05ja](https://ilalang.drepram.com/p/clzi377gj0000y7cmornn05ja)
 
 <pre>
 the world did once inflict a wound
@@ -340,9 +351,11 @@ but she herself is the world and holds life in her hands.
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
 
-<div class="page-break"></div>
+### tjeuk onah
 
-## tjeuk onah
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/cm02k3ioj000112p6deelcxbe](https://ilalang.drepram.com/p/cm02k3ioj000112p6deelcxbe)
 
 <pre>
 Tjeuk Onah takpunja bulan
@@ -368,9 +381,11 @@ mati ogah dibelenggu tuantanah.
 
 **Sumber**: jang bertanahair tapi tak bertanah, 1962
 
-<div class="page-break"></div>
+### Potret Seorang Komunis
 
-## Potret Seorang Komunis
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/clzjjyv6a0000ssjvox5xkltx](https://ilalang.drepram.com/p/clzjjyv6a0000ssjvox5xkltx)
 
 <pre>
 Adakah duka lebih duka jang kita punja
@@ -408,9 +423,11 @@ sebagai kesetiaan jang berkibar diwaktu kerdja
 
 **Sumber:** Harian Rakjat, 1964
 
-<div class="page-break"></div>
+### marx dihatiku dan di kuba
 
-## marx dihatiku dan di kuba
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/clzmgi7lk0000q7jqdjei602q](https://ilalang.drepram.com/p/clzmgi7lk0000q7jqdjei602q)
 
 <pre>
 Ada kisah di waktu pagi
@@ -505,9 +522,11 @@ Tjatatan kaki:
 
 **Sumber:** Viva Cuba!, 1963
 
-<div class="page-break"></div>
+### hidup
 
-## hidup
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/cm02jv68a000012p6tf13sccu](https://ilalang.drepram.com/p/cm02jv68a000012p6tf13sccu)
 
 <pre>
 Dampar sawah --- mata tak sampai udjungnja
@@ -551,9 +570,11 @@ pada njanji lalangdesa dekat berhenti
 
 **Sumber**: jang bertanahair tapi tak bertanah, 1962
 
-<div class="page-break"></div>
+### untuk ngatijem
 
-## untuk ngatijem
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/cm02k210x0000y2b7904853gd](https://ilalang.drepram.com/p/cm02k210x0000y2b7904853gd)
 
 <pre>
 Ngatijem, djangan kau mengeluh
@@ -587,9 +608,11 @@ gadis nama jang mendukung keruntuhan
 
 **Sumber**: jang bertanahair tapi tak bertanah, 1962
 
-<div class="page-break"></div>
+### lelaki pendjual kuali
 
-## lelaki pendjual kuali
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/cm02kql1n0000u1uwdz080t40](https://ilalang.drepram.com/p/cm02kql1n0000u1uwdz080t40)
 
 <pre>
 Turun dan tersaruklah kaki didjendjang djurang
@@ -614,9 +637,11 @@ tak hati sampai nasi meminta.
 
 **Sumber**: jang bertanahair tapi tak bertanah, 1962
 
-<div class="page-break"></div>
+### lagu anak desa
 
-## lagu anak desa
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/cm02ktoxb0001u1uwbz8h4oxb](https://ilalang.drepram.com/p/cm02ktoxb0001u1uwbz8h4oxb)
 
 <pre align="center">
 (kembang bulan didesa)

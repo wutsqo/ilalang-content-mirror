@@ -1,11 +1,15 @@
 ---
-id: "clz1m5rc10000tbjynje82bal"
-title: "Badjak untuk Petani"
-author: "Sobron Aidit"
-slug: "badjak-untuk-petani"
+content:
+  id: clz1m5rc10000tbjynje82bal
+  title: Badjak untuk Petani
+  author: Sobron Aidit
+  slug: badjak-untuk-petani
 ---
+### Badjak untuk Petani
 
-# Badjak untuk Petani
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clz1m5rc10000tbjynje82bal](https://ilalang.drepram.com/p/clz1m5rc10000tbjynje82bal)
 
 <pre>
 Apakah jang lebih indah didunia ini
@@ -38,4 +42,3 @@ Dibarisan jang terhina dan lapar.
 <br/><br/>
 
 **Sumber**: Matinja Seorang Petani, 1963
-

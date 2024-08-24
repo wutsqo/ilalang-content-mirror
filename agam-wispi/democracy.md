@@ -1,11 +1,15 @@
 ---
-id: "clzknn0s500026tanzxsmlo50"
-title: "democracy"
-author: "Agam Wispi"
-slug: "democracy"
+content:
+  id: clzknn0s500026tanzxsmlo50
+  title: democracy
+  author: Agam Wispi
+  slug: democracy
 ---
+### democracy
 
-# democracy
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clzknn0s500026tanzxsmlo50](https://ilalang.drepram.com/p/clzknn0s500026tanzxsmlo50)
 
 <pre>
 generals, it's we that adorned
@@ -34,4 +38,3 @@ and above all, give us freedom to speak.
 
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
-

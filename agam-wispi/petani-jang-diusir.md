@@ -1,11 +1,15 @@
 ---
-id: "clz13k5y70001ovdqy8ytq8iv"
-title: "petani jang diusir"
-author: "Agam Wispi"
-slug: "petani-jang-diusir"
+content:
+  id: clz13k5y70001ovdqy8ytq8iv
+  title: petani jang diusir
+  author: Agam Wispi
+  slug: petani-jang-diusir
 ---
+### petani jang diusir
 
-# petani jang diusir
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz13k5y70001ovdqy8ytq8iv](https://ilalang.drepram.com/p/clz13k5y70001ovdqy8ytq8iv)
 
 <pre>
 kau mentjangkul
@@ -62,4 +66,3 @@ Medan, 31-7-1952.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

@@ -1,11 +1,15 @@
 ---
-id: "clzta1yph0000t2x4yfjfb00h"
-title: "Kepada Mao Tje-tung"
-author: "A.S. Dharta"
-slug: "kepada-mao-tje-tung"
+content:
+  id: clzta1yph0000t2x4yfjfb00h
+  title: Kepada Mao Tje-tung
+  author: A.S. Dharta
+  slug: kepada-mao-tje-tung
 ---
+### Kepada Mao Tje-tung
 
-# Kepada Mao Tje-tung
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clzta1yph0000t2x4yfjfb00h](https://ilalang.drepram.com/p/clzta1yph0000t2x4yfjfb00h)
 
 <pre align="right">
 Menjambut 1 Mei '51
@@ -40,4 +44,3 @@ bagimu dan bagi kami membawa njanjian merdu :
 </pre>
 
 **Sumber:** Rangsang Detik, 1957
-

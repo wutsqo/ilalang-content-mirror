@@ -1,11 +1,15 @@
 ---
-id: "clz102i9000011260xeb4nhj7"
-title: "diatas bukit"
-author: "Agam Wispi"
-slug: "diatas-bukit"
+content:
+  id: clz102i9000011260xeb4nhj7
+  title: diatas bukit
+  author: Agam Wispi
+  slug: diatas-bukit
 ---
+### diatas bukit
 
-# diatas bukit
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz102i9000011260xeb4nhj7](https://ilalang.drepram.com/p/clz102i9000011260xeb4nhj7)
 
 <pre>
 dibahuku tersimbai djalinan totjang
@@ -24,4 +28,3 @@ Parapat, 5-11-56.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

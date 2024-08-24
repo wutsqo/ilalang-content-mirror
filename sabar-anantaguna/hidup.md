@@ -1,11 +1,15 @@
 ---
-id: "cm02jv68a000012p6tf13sccu"
-title: "hidup"
-author: "Sabar Anantaguna"
-slug: "hidup"
+content:
+  id: cm02jv68a000012p6tf13sccu
+  title: hidup
+  author: Sabar Anantaguna
+  slug: hidup
 ---
+### hidup
 
-# hidup
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/cm02jv68a000012p6tf13sccu](https://ilalang.drepram.com/p/cm02jv68a000012p6tf13sccu)
 
 <pre>
 Dampar sawah --- mata tak sampai udjungnja
@@ -48,4 +52,3 @@ pada njanji lalangdesa dekat berhenti
 <br/><br/>
 
 **Sumber**: jang bertanahair tapi tak bertanah, 1962
-

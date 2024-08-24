@@ -1,11 +1,15 @@
 ---
-id: "clzi3ucmr000016nahldublew"
-title: "lonely night"
-author: "Hadi S."
-slug: "lonely-night"
+content:
+  id: clzi3ucmr000016nahldublew
+  title: lonely night
+  author: Hadi S.
+  slug: lonely-night
 ---
+### lonely night
 
-# lonely night
+oleh Hadi S.
+
+[https://ilalang.drepram.com/p/clzi3ucmr000016nahldublew](https://ilalang.drepram.com/p/clzi3ucmr000016nahldublew)
 
 <pre>
 the night is lonely
@@ -36,4 +40,3 @@ and the radiant morning will dawn.
 
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
-

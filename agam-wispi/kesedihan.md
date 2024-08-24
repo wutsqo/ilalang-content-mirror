@@ -1,11 +1,15 @@
 ---
-id: "clz12jonz0001ddf94853ldtg"
-title: "kesedihan"
-author: "Agam Wispi"
-slug: "kesedihan"
+content:
+  id: clz12jonz0001ddf94853ldtg
+  title: kesedihan
+  author: Agam Wispi
+  slug: kesedihan
 ---
+### kesedihan
 
-# kesedihan
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12jonz0001ddf94853ldtg](https://ilalang.drepram.com/p/clz12jonz0001ddf94853ldtg)
 
 <pre align="right">
 buat Berlina Mirajani
@@ -37,4 +41,3 @@ Kajuawet, 12-10-58.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

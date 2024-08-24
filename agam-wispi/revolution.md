@@ -1,11 +1,15 @@
 ---
-id: "clzknj3tz00016tanl1fyr9n6"
-title: "revolution"
-author: "Agam Wispi"
-slug: "revolution"
+content:
+  id: clzknj3tz00016tanl1fyr9n6
+  title: revolution
+  author: Agam Wispi
+  slug: revolution
 ---
+### revolution
 
-# revolution
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clzknj3tz00016tanl1fyr9n6](https://ilalang.drepram.com/p/clzknj3tz00016tanl1fyr9n6)
 
 <pre>
 I entice you into the woods, my love
@@ -21,4 +25,3 @@ love bleeds on until death.
 
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
-

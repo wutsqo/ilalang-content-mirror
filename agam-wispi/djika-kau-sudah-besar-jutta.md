@@ -1,11 +1,15 @@
 ---
-id: "clz0sywh50000fx814akqdtap"
-title: "djika kau sudah besar, jutta"
-author: "Agam Wispi"
-slug: "djika-kau-sudah-besar-jutta"
+content:
+  id: clz0sywh50000fx814akqdtap
+  title: 'djika kau sudah besar, jutta'
+  author: Agam Wispi
+  slug: djika-kau-sudah-besar-jutta
 ---
+### djika kau sudah besar, jutta
 
-# djika kau sudah besar, jutta
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0sywh50000fx814akqdtap](https://ilalang.drepram.com/p/clz0sywh50000fx814akqdtap)
 
 <pre>
 dibawah rintik saldju
@@ -83,4 +87,3 @@ Stalin Allee, 13 Desember 1958.
 <br/><br/>
 
 **Sumber**: Sahabat, 1959
-

@@ -1,11 +1,15 @@
 ---
-id: "clz10ehyw00006gv0diiejqgq"
-title: "Sebelum aek nauli"
-author: "Agam Wispi"
-slug: "sebelum-aek-nauli"
+content:
+  id: clz10ehyw00006gv0diiejqgq
+  title: Sebelum aek nauli
+  author: Agam Wispi
+  slug: sebelum-aek-nauli
 ---
+### Sebelum aek nauli
 
-# Sebelum aek nauli
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz10ehyw00006gv0diiejqgq](https://ilalang.drepram.com/p/clz10ehyw00006gv0diiejqgq)
 
 <pre>
 diteluk pengabisan aku terdiam
@@ -39,4 +43,3 @@ Parapat, 6-11-56.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

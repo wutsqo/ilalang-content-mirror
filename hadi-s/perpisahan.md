@@ -1,11 +1,15 @@
 ---
-id: "clzj95gcc0000toyc8z8j59iy"
-title: "perpisahan"
-author: "Hadi S."
-slug: "perpisahan"
+content:
+  id: clzj95gcc0000toyc8z8j59iy
+  title: perpisahan
+  author: Hadi S.
+  slug: perpisahan
 ---
+### perpisahan
 
-# perpisahan
+oleh Hadi S.
+
+[https://ilalang.drepram.com/p/clzj95gcc0000toyc8z8j59iy](https://ilalang.drepram.com/p/clzj95gcc0000toyc8z8j59iy)
 
 <pre align="center">
 1.
@@ -40,4 +44,3 @@ kasih dan sajang.
 <br/><br/>
 
 **Sumber:** Laut Pasang, 1962
-

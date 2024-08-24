@@ -1,11 +1,15 @@
 ---
-id: "clzi3dd7j0001y7cmtm6qjyxs"
-title: "to people's bandung"
-author: "Sabar Anantaguna"
-slug: "to-people-s-bandung"
+content:
+  id: clzi3dd7j0001y7cmtm6qjyxs
+  title: to people's bandung
+  author: Sabar Anantaguna
+  slug: to-people-s-bandung
 ---
+### to people's bandung
 
-# to people's bandung
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/clzi3dd7j0001y7cmtm6qjyxs](https://ilalang.drepram.com/p/clzi3dd7j0001y7cmtm6qjyxs)
 
 <pre> 
 wherever they come from, the people are the people
@@ -42,4 +46,3 @@ peace in all the world.
 
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962 
 **Penerjemah**: Bintang Suradi
-

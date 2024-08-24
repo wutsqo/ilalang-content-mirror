@@ -1,11 +1,15 @@
 ---
-id: "clz03n12e0000ka5psa0x4x0b"
-title: "kenangan sedih petani tjiandjur"
-author: "Sobron Aidit"
-slug: "kenangan-sedih-petani-tjiandjur"
+content:
+  id: clz03n12e0000ka5psa0x4x0b
+  title: kenangan sedih petani tjiandjur
+  author: Sobron Aidit
+  slug: kenangan-sedih-petani-tjiandjur
 ---
+### kenangan sedih petani tjiandjur
 
-# kenangan sedih petani tjiandjur
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clz03n12e0000ka5psa0x4x0b](https://ilalang.drepram.com/p/clz03n12e0000ka5psa0x4x0b)
 
 <pre align="center">
 I.
@@ -52,4 +56,3 @@ Dan beribu djiwa sia-sia.
 <br/><br/>
 
 **Sumber**: Pulang Bertempur, 1959
-

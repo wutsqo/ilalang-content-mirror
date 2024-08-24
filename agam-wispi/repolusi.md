@@ -1,11 +1,15 @@
 ---
-id: "clz14pphh00008spf8qyonx7k"
-title: "repolusi"
-author: "Agam Wispi"
-slug: "repolusi"
+content:
+  id: clz14pphh00008spf8qyonx7k
+  title: repolusi
+  author: Agam Wispi
+  slug: repolusi
 ---
+### repolusi
 
-# repolusi
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz14pphh00008spf8qyonx7k](https://ilalang.drepram.com/p/clz14pphh00008spf8qyonx7k)
 
 <pre>
 kupantjing kau masuk hutan
@@ -22,4 +26,3 @@ Medan, 1957.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

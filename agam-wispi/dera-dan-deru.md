@@ -1,11 +1,15 @@
 ---
-id: "clz14a35m0001sr07ln7tuow9"
-title: "dera dan deru"
-author: "Agam Wispi"
-slug: "dera-dan-deru"
+content:
+  id: clz14a35m0001sr07ln7tuow9
+  title: dera dan deru
+  author: Agam Wispi
+  slug: dera-dan-deru
 ---
+### dera dan deru
 
-# dera dan deru
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz14a35m0001sr07ln7tuow9](https://ilalang.drepram.com/p/clz14a35m0001sr07ln7tuow9)
 
 <pre>
 djika deru mendera
@@ -23,4 +27,3 @@ Medan, 1956.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

@@ -1,11 +1,15 @@
 ---
-id: "clzi4bdnv0000ol6ohhuaqal4"
-title: "djawaban"
-author: "Hadi S."
-slug: "djawaban"
+content:
+  id: clzi4bdnv0000ol6ohhuaqal4
+  title: djawaban
+  author: Hadi S.
+  slug: djawaban
 ---
+### djawaban
 
-# djawaban
+oleh Hadi S.
+
+[https://ilalang.drepram.com/p/clzi4bdnv0000ol6ohhuaqal4](https://ilalang.drepram.com/p/clzi4bdnv0000ol6ohhuaqal4)
 
 <pre align="right"> Untuk A. Hussein </pre>
 <pre> Bila soalnja kebenaran, tuan, kami selalu berlapang 
@@ -40,4 +44,3 @@ Tuan kira siapa kami ? </pre>
 <br /> 
 
 **Sumber**: Laut Pasang, 1962
-

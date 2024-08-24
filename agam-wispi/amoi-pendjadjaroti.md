@@ -1,11 +1,15 @@
 ---
-id: "clz12a2ey00012vll3t7cyf9f"
-title: "amoi, pendjadjaroti"
-author: "Agam Wispi"
-slug: "amoi-pendjadjaroti"
+content:
+  id: clz12a2ey00012vll3t7cyf9f
+  title: 'amoi, pendjadjaroti'
+  author: Agam Wispi
+  slug: amoi-pendjadjaroti
 ---
+### amoi, pendjadjaroti
 
-# amoi, pendjadjaroti
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12a2ey00012vll3t7cyf9f](https://ilalang.drepram.com/p/clz12a2ey00012vll3t7cyf9f)
 
 <pre>
 untuk satu dolar dia senjum
@@ -59,4 +63,3 @@ Singapura, 15-6-56.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

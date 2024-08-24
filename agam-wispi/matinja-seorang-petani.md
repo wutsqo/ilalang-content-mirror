@@ -1,11 +1,15 @@
 ---
-id: "clz1933es0000w6wm5bazk7m6"
-title: "matinja seorang petani"
-author: "Agam Wispi"
-slug: "matinja-seorang-petani"
+content:
+  id: clz1933es0000w6wm5bazk7m6
+  title: matinja seorang petani
+  author: Agam Wispi
+  slug: matinja-seorang-petani
 ---
+### matinja seorang petani
 
-# matinja seorang petani
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz1933es0000w6wm5bazk7m6](https://ilalang.drepram.com/p/clz1933es0000w6wm5bazk7m6)
 
 <pre align="right">
 buat L. Darman Tambunan
@@ -101,4 +105,3 @@ kita gedor
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

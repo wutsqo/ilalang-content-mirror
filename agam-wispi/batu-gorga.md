@@ -1,11 +1,15 @@
 ---
-id: "clz03qonu0000yc4dlq585aqz"
-title: "batu gorga"
-author: "Agam Wispi"
-slug: "batu-gorga"
+content:
+  id: clz03qonu0000yc4dlq585aqz
+  title: batu gorga
+  author: Agam Wispi
+  slug: batu-gorga
 ---
+### batu gorga
 
-# batu gorga
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz03qonu0000yc4dlq585aqz](https://ilalang.drepram.com/p/clz03qonu0000yc4dlq585aqz)
 
 <pre align="right">
 buat batara lubis
@@ -36,4 +40,3 @@ Parapat, 6-11-56
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1960
-

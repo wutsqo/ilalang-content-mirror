@@ -1,11 +1,15 @@
 ---
-id: "clzi4580y000216na6t33zmth"
-title: "ave maria"
-author: "Hadi S."
-slug: "ave-maria"
+content:
+  id: clzi4580y000216na6t33zmth
+  title: ave maria
+  author: Hadi S.
+  slug: ave-maria
 ---
+### ave maria
 
-# ave maria
+oleh Hadi S.
+
+[https://ilalang.drepram.com/p/clzi4580y000216na6t33zmth](https://ilalang.drepram.com/p/clzi4580y000216na6t33zmth)
 
 <pre> 
 Datangnja begini halus 
@@ -32,4 +36,3 @@ Pergulatan betapa gemuruh sedang kerdja belum selesai.
 <br/><br/>  
 
 **Sumber**: Laut Pasang, 1962
-

@@ -1,11 +1,15 @@
 ---
-id: "clz0ze2bv0004hvmnzk4n8pp0"
-title: "sahabat"
-author: "Agam Wispi"
-slug: "sahabat"
+content:
+  id: clz0ze2bv0004hvmnzk4n8pp0
+  title: sahabat
+  author: Agam Wispi
+  slug: sahabat
 ---
+### sahabat
 
-# sahabat
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0ze2bv0004hvmnzk4n8pp0](https://ilalang.drepram.com/p/clz0ze2bv0004hvmnzk4n8pp0)
 
 <pre>
 dua kali dimamah maut
@@ -19,4 +23,3 @@ Berlin, April 1959.
 <br/><br/>
 
 **Sumber**: Sahabat, 1959
-

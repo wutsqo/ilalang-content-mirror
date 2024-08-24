@@ -1,11 +1,15 @@
 ---
-id: "clz0z2y9t0002hvmnzclqeo8e"
-title: "pameran leipzig"
-author: "Agam Wispi"
-slug: "pameran-leipzig"
+content:
+  id: clz0z2y9t0002hvmnzclqeo8e
+  title: pameran leipzig
+  author: Agam Wispi
+  slug: pameran-leipzig
 ---
+### pameran leipzig
 
-# pameran leipzig
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0z2y9t0002hvmnzclqeo8e](https://ilalang.drepram.com/p/clz0z2y9t0002hvmnzclqeo8e)
 
 <pre align="right">
 (buat Mac Schlosser)
@@ -35,4 +39,3 @@ Leipzig, 22 Maret 1959.
 <br/><br/>
 
 **Sumber**: Sahabat, 1959
-

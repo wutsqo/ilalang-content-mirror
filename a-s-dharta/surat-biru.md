@@ -1,11 +1,15 @@
 ---
-id: "clztaby2g0001qsnz1z5zlod7"
-title: "Surat Biru"
-author: "A.S. Dharta"
-slug: "surat-biru"
+content:
+  id: clztaby2g0001qsnz1z5zlod7
+  title: Surat Biru
+  author: A.S. Dharta
+  slug: surat-biru
 ---
+### Surat Biru
 
-# Surat Biru
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clztaby2g0001qsnz1z5zlod7](https://ilalang.drepram.com/p/clztaby2g0001qsnz1z5zlod7)
 
 <pre>
 kutumpahkan segala daja puisiku
@@ -25,4 +29,3 @@ suratku ini menterdjemahkan kemenangan.
 </pre>
 
 **Sumber:** Rangsang Detik, 1957
-

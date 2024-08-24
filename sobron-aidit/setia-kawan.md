@@ -1,11 +1,15 @@
 ---
-id: "clz01z3990000ungsfx9d4q0b"
-title: "setia kawan"
-author: "Sobron Aidit"
-slug: "setia-kawan"
+content:
+  id: clz01z3990000ungsfx9d4q0b
+  title: setia kawan
+  author: Sobron Aidit
+  slug: setia-kawan
 ---
+### setia kawan
 
-# setia kawan
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clz01z3990000ungsfx9d4q0b](https://ilalang.drepram.com/p/clz01z3990000ungsfx9d4q0b)
 
 ```
 Hasan sudah lama sakit berwadjah putjat lesu
@@ -28,4 +32,3 @@ kalau dirasakan kawan bersama.
 <br/>
 
 **Sumber**: Pulang Bertempur, 1959
-

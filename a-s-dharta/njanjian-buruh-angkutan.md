@@ -1,11 +1,15 @@
 ---
-id: "clztapoqt0002okxty6xclnad"
-title: "Njanjian Buruh Angkutan"
-author: "A.S. Dharta"
-slug: "njanjian-buruh-angkutan"
+content:
+  id: clztapoqt0002okxty6xclnad
+  title: Njanjian Buruh Angkutan
+  author: A.S. Dharta
+  slug: njanjian-buruh-angkutan
 ---
+### Njanjian Buruh Angkutan
 
-# Njanjian Buruh Angkutan
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clztapoqt0002okxty6xclnad](https://ilalang.drepram.com/p/clztapoqt0002okxty6xclnad)
 
 <pre align="right">
 Kepada fusi buruh transport
@@ -34,4 +38,3 @@ Aku Triompator Hari Esok !
 </pre>
 
 **Sumber:** Rangsang Detik, 1957
-

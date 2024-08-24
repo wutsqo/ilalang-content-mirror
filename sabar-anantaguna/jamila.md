@@ -1,11 +1,15 @@
 ---
-id: "clzi377gj0000y7cmornn05ja"
-title: "jamila"
-author: "Sabar Anantaguna"
-slug: "jamila"
+content:
+  id: clzi377gj0000y7cmornn05ja
+  title: jamila
+  author: Sabar Anantaguna
+  slug: jamila
 ---
+### jamila
 
-# jamila
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/clzi377gj0000y7cmornn05ja](https://ilalang.drepram.com/p/clzi377gj0000y7cmornn05ja)
 
 <pre>
 the world did once inflict a wound
@@ -45,4 +49,3 @@ but she herself is the world and holds life in her hands.
 
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
-

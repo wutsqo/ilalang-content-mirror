@@ -1,11 +1,15 @@
 ---
-id: "clzk10f560000h88dnj71msow"
-title: "sadjak² hitam"
-author: "Hadi S."
-slug: "sadjak-hitam"
+content:
+  id: clzk10f560000h88dnj71msow
+  title: sadjak² hitam
+  author: Hadi S.
+  slug: sadjak-hitam
 ---
+### sadjak² hitam
 
-# sadjak² hitam
+oleh Hadi S.
+
+[https://ilalang.drepram.com/p/clzk10f560000h88dnj71msow](https://ilalang.drepram.com/p/clzk10f560000h88dnj71msow)
 
 <pre align="center">
 Pagi
@@ -67,4 +71,3 @@ Pilihan kami tinggal sebuah.
 <br/><br/>
 
 **Sumber**: Laut Pasang, 1962
-

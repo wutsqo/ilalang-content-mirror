@@ -1,11 +1,15 @@
 ---
-id: "clz13w5ep0001wfyjt9yk6600"
-title: "puntjak"
-author: "Agam Wispi"
-slug: "puntjak"
+content:
+  id: clz13w5ep0001wfyjt9yk6600
+  title: puntjak
+  author: Agam Wispi
+  slug: puntjak
 ---
+### puntjak
 
-# puntjak
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz13w5ep0001wfyjt9yk6600](https://ilalang.drepram.com/p/clz13w5ep0001wfyjt9yk6600)
 
 <pre align="center">1</pre>
 <pre>
@@ -67,4 +71,3 @@ Puntjak, Djanuari 1961.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

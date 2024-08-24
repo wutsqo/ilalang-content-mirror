@@ -1,11 +1,15 @@
 ---
-id: "clzk3is120002dy7xksd2rv0j"
-title: "Kertosentono"
-author: "A.S. Dharta"
-slug: "kertosentono"
+content:
+  id: clzk3is120002dy7xksd2rv0j
+  title: Kertosentono
+  author: A.S. Dharta
+  slug: kertosentono
 ---
+### Kertosentono
 
-# Kertosentono
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clzk3is120002dy7xksd2rv0j](https://ilalang.drepram.com/p/clzk3is120002dy7xksd2rv0j)
 
 <pre align="right">
 untuk petani-petani Bindjai
@@ -41,4 +45,3 @@ sekali bumi Pertiwi bebas abadi
 <br/><br/>
 
 **Sumber**: Matinja Seorang Petani, 1963
-

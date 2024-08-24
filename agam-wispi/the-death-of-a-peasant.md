@@ -1,11 +1,15 @@
 ---
-id: "clzknz1my00036tanjn9gdmwt"
-title: "the death of a peasant"
-author: "Agam Wispi"
-slug: "the-death-of-a-peasant"
+content:
+  id: clzknz1my00036tanjn9gdmwt
+  title: the death of a peasant
+  author: Agam Wispi
+  slug: the-death-of-a-peasant
 ---
+### the death of a peasant
 
-# the death of a peasant
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clzknz1my00036tanjn9gdmwt](https://ilalang.drepram.com/p/clzknz1my00036tanjn9gdmwt)
 
 <pre align="right">
 to L. Darman Tambunan
@@ -102,4 +106,3 @@ we'll bang at every door.
 
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
-

@@ -1,11 +1,15 @@
 ---
-id: "cm02jk5fp000145a2qv20kil7"
-title: "nama jang hanjut"
-author: "H.R. Bandaharo"
-slug: "nama-jang-hanjut"
+content:
+  id: cm02jk5fp000145a2qv20kil7
+  title: nama jang hanjut
+  author: H.R. Bandaharo
+  slug: nama-jang-hanjut
 ---
+### nama jang hanjut
 
-# nama jang hanjut
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/cm02jk5fp000145a2qv20kil7](https://ilalang.drepram.com/p/cm02jk5fp000145a2qv20kil7)
 
 <pre>
 Di Pyongyang ada sebuah sungai
@@ -33,4 +37,3 @@ September 1959
 <br/><br/>
 
 **Sumber**: Dari Bumi Merah, 1963
-

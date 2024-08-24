@@ -1,11 +1,15 @@
 ---
-id: "clz12f2qa0000ddf9jnmpc4er"
-title: "ibukota ku sajang"
-author: "Agam Wispi"
-slug: "ibukota-ku-sajang"
+content:
+  id: clz12f2qa0000ddf9jnmpc4er
+  title: ibukota ku sajang
+  author: Agam Wispi
+  slug: ibukota-ku-sajang
 ---
+### ibukota ku sajang
 
-# ibukota ku sajang
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz12f2qa0000ddf9jnmpc4er](https://ilalang.drepram.com/p/clz12f2qa0000ddf9jnmpc4er)
 
 <pre align="right">
 buat H.
@@ -38,4 +42,3 @@ Ekspres Surabaja-Djakarta, 11-3-57.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

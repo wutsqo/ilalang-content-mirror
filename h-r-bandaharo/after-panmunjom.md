@@ -1,11 +1,15 @@
 ---
-id: "clzk3c5go0001dy7x2ucrkmub"
-title: "after panmunjom"
-author: "H.R. Bandaharo"
-slug: "after-panmunjom"
+content:
+  id: clzk3c5go0001dy7x2ucrkmub
+  title: after panmunjom
+  author: H.R. Bandaharo
+  slug: after-panmunjom
 ---
+### after panmunjom
 
-# after panmunjom
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/clzk3c5go0001dy7x2ucrkmub](https://ilalang.drepram.com/p/clzk3c5go0001dy7x2ucrkmub)
 
 <pre align="right">
 for Major Yoon Gil
@@ -38,4 +42,3 @@ on the red soil.
 
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
-

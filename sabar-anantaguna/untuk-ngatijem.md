@@ -1,11 +1,15 @@
 ---
-id: "cm02k210x0000y2b7904853gd"
-title: "untuk ngatijem"
-author: "Sabar Anantaguna"
-slug: "untuk-ngatijem"
+content:
+  id: cm02k210x0000y2b7904853gd
+  title: untuk ngatijem
+  author: Sabar Anantaguna
+  slug: untuk-ngatijem
 ---
+### untuk ngatijem
 
-# untuk ngatijem
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/cm02k210x0000y2b7904853gd](https://ilalang.drepram.com/p/cm02k210x0000y2b7904853gd)
 
 <pre>
 Ngatijem, djangan kau mengeluh
@@ -38,4 +42,3 @@ gadis nama jang mendukung keruntuhan
 <br/><br/>
 
 **Sumber**: jang bertanahair tapi tak bertanah, 1962
-

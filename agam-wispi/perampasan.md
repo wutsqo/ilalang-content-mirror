@@ -1,11 +1,15 @@
 ---
-id: "clz13mtkm0000wfyjschzymht"
-title: "perampasan"
-author: "Agam Wispi"
-slug: "perampasan"
+content:
+  id: clz13mtkm0000wfyjschzymht
+  title: perampasan
+  author: Agam Wispi
+  slug: perampasan
 ---
+### perampasan
 
-# perampasan
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz13mtkm0000wfyjschzymht](https://ilalang.drepram.com/p/clz13mtkm0000wfyjschzymht)
 
 <pre>
 diantara tetesan keringat kuning manusia kerdja
@@ -35,4 +39,3 @@ Perkebunan teh Bah birong ulu, 3-2-1952.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-

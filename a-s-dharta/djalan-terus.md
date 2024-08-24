@@ -1,11 +1,15 @@
 ---
-id: "clztamssk0001okxtjr0iyguv"
-title: "Djalan Terus"
-author: "A.S. Dharta"
-slug: "djalan-terus"
+content:
+  id: clztamssk0001okxtjr0iyguv
+  title: Djalan Terus
+  author: A.S. Dharta
+  slug: djalan-terus
 ---
+### Djalan Terus
 
-# Djalan Terus
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clztamssk0001okxtjr0iyguv](https://ilalang.drepram.com/p/clztamssk0001okxtjr0iyguv)
 
 <pre>
 kata Suurhoff*:
@@ -43,4 +47,3 @@ Belanda yang anti buruh berpolitik.
 <br/>
 
 **Sumber:** Rangsang Detik, 1957
-

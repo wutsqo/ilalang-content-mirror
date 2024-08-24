@@ -1,11 +1,15 @@
 ---
-id: "clz03g1l30000wyicmh0g69og"
-title: "hidup"
-author: "Sobron Aidit"
-slug: "hidup"
+content:
+  id: clz03g1l30000wyicmh0g69og
+  title: hidup
+  author: Sobron Aidit
+  slug: hidup
 ---
+### hidup
 
-# hidup
+oleh Sobron Aidit
+
+[https://ilalang.drepram.com/p/clz03g1l30000wyicmh0g69og](https://ilalang.drepram.com/p/clz03g1l30000wyicmh0g69og)
 
 ```
 Hidup itu bukan tergantung pada apa
@@ -28,4 +32,3 @@ dan jang penting bagi masing² dan orang lain.
 <br/>
 
 **Sumber**: Pulang Bertempur, 1959
-

@@ -1,11 +1,15 @@
 ---
-id: "cm02j7cn50000ovlfmx92kqc1"
-title: "sesudah panmunjom"
-author: "H.R. Bandaharo"
-slug: "sesudah-panmunjom"
+content:
+  id: cm02j7cn50000ovlfmx92kqc1
+  title: sesudah panmunjom
+  author: H.R. Bandaharo
+  slug: sesudah-panmunjom
 ---
+### sesudah panmunjom
 
-# sesudah panmunjom
+oleh H.R. Bandaharo
+
+[https://ilalang.drepram.com/p/cm02j7cn50000ovlfmx92kqc1](https://ilalang.drepram.com/p/cm02j7cn50000ovlfmx92kqc1)
 
 <pre align="right">
 untuk major Yoon Gil
@@ -39,4 +43,3 @@ September 1959
 <br/><br/>
 
 **Sumber**: Dari Bumi Merah, 1963
-

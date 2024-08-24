@@ -1,11 +1,15 @@
 ---
-id: "clzi2uevx0001juhmmjkhje3l"
-title: "the downtrodden shoulder freedom"
-author: "Sabar Anantaguna"
-slug: "the-downtrodden-shoulder-freedom"
+content:
+  id: clzi2uevx0001juhmmjkhje3l
+  title: the downtrodden shoulder freedom
+  author: Sabar Anantaguna
+  slug: the-downtrodden-shoulder-freedom
 ---
+### the downtrodden shoulder freedom
 
-# the downtrodden shoulder freedom
+oleh Sabar Anantaguna
+
+[https://ilalang.drepram.com/p/clzi2uevx0001juhmmjkhje3l](https://ilalang.drepram.com/p/clzi2uevx0001juhmmjkhje3l)
 
 <pre>
 we the downtrodden shoulder freedom
@@ -40,4 +44,3 @@ we've kept our country from becoming a prison
 
 **Sumber**: Contemporary Progressive Indonesian Poetry, 1962
 **Penerjemah**: Bintang Suradi
-

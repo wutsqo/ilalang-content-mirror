@@ -1,11 +1,15 @@
 ---
-id: "clz0tdqyp00017x45s8lx0qlu"
-title: "bastei"
-author: "Agam Wispi"
-slug: "bastei"
+content:
+  id: clz0tdqyp00017x45s8lx0qlu
+  title: bastei
+  author: Agam Wispi
+  slug: bastei
 ---
+### bastei
 
-# bastei
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz0tdqyp00017x45s8lx0qlu](https://ilalang.drepram.com/p/clz0tdqyp00017x45s8lx0qlu)
 
 <pre>
 manusiapun kadang
@@ -32,4 +36,3 @@ Bastei, 1 Djuni 1959.
 <br/><br/>
 
 **Sumber**: Sahabat, 1959
-

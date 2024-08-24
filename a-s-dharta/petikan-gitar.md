@@ -1,11 +1,15 @@
 ---
-id: "clztab2200000qsnz0opljmq0"
-title: "Petikan Gitar"
-author: "A.S. Dharta"
-slug: "petikan-gitar"
+content:
+  id: clztab2200000qsnz0opljmq0
+  title: Petikan Gitar
+  author: A.S. Dharta
+  slug: petikan-gitar
 ---
+### Petikan Gitar
 
-# Petikan Gitar
+oleh A.S. Dharta
+
+[https://ilalang.drepram.com/p/clztab2200000qsnz0opljmq0](https://ilalang.drepram.com/p/clztab2200000qsnz0opljmq0)
 
 <pre align="right">
 Untuk kawan dan lawan
@@ -46,4 +50,3 @@ dan hati remadja kembali.
 </pre>
 
 **Sumber:** Rangsang Detik, 1957
-

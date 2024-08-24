@@ -1,11 +1,15 @@
 ---
-id: "clz120aph0000dpqnkr6sf7h9"
-title: "kita"
-author: "Agam Wispi"
-slug: "kita"
+content:
+  id: clz120aph0000dpqnkr6sf7h9
+  title: kita
+  author: Agam Wispi
+  slug: kita
 ---
+### kita
 
-# kita
+oleh Agam Wispi
+
+[https://ilalang.drepram.com/p/clz120aph0000dpqnkr6sf7h9](https://ilalang.drepram.com/p/clz120aph0000dpqnkr6sf7h9)
 
 <pre>
 kawan datang
@@ -24,4 +28,3 @@ Asamlama, 4-9-57.
 <br/><br/>
 
 **Sumber**: Jang Tak Terbungkamkan, 1959
-
