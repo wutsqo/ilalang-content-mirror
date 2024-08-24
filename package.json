@@ -3,7 +3,8 @@
   "module": "index.ts",
   "type": "module",
   "scripts": {
-    "start": "bun run ./src/index.ts"
+    "start": "bun run ./src/index.ts",
+    "compile": "bun run ./src/compile.ts && bunx @11ty/eleventy && bun run ./src/generate-pdf.ts"
   },
   "devDependencies": {
     "@types/bun": "latest"
@@ -13,6 +14,7 @@
   },
   "dependencies": {
     "@vercel/postgres": "^0.9.0",
-    "md-to-pdf": "^5.2.4"
+    "gray-matter": "^4.0.3",
+    "puppeteer": "^23.1.1"
   }
 }

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ title }}</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/tailwindcss@latest/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/@tailwindcss/typography@latest/dist/typography.min.css"
+      rel="stylesheet"
+    />
+    <style>
+      html {
+        scroll-behavior: smooth;
+      }
+      header,
+      .toc,
+      h2,
+      h3 {
+        page-break-before: always;
+      }
+      .prose pre {
+        background-color: #f5f5f5;
+        color: #333;
+      }
+    </style>
+  </head>
+  <body
+    class="prose prose-sm container mx-auto px-4 py-20"
+    style="max-width: none"
+  >
+    <header>
+      <h1>{{ title }}</h1>
+      <p>{{ description }}</p>
+    </header>
+    <div class="toc">
+      <h2>Daftar Isi</h2>
+      <ul id="table-of-contents"></ul>
+    </div>
+    <main>
+      {{ content | safe }}
+    </main>
+    <footer></footer>
+    <script>
+      function slugify(text) {
+        return text
+          .toLowerCase()
+          .replace(/[^a-z0-9]+/g, "-")
+          .replace(/(^-|-$)+/g, "");
+      }
+
+      document.addEventListener("DOMContentLoaded", function () {
+        let toc = document.getElementById("table-of-contents");
+        let headers = document.querySelectorAll("h2, h3");
+        let currentH2 = null;
+
+        headers.forEach(function (header) {
+          if (header.textContent === "Daftar Isi") return;
+          let level = header.tagName.toLowerCase();
+          let slug = slugify(header.textContent);
+
+          if (!header.id) header.id = slug;
+
+          if (level === "h2") {
+            currentH2 = document.createElement("li");
+
+            let tocLink = document.createElement("a");
+            tocLink.style = "text-decoration: none";
+            tocLink.href = "#" + header.id;
+            tocLink.textContent = header.textContent;
+            currentH2.appendChild(tocLink);
+
+            let subList = document.createElement("ul");
+            currentH2.appendChild(subList);
+            toc.appendChild(currentH2);
+          } else if (level === "h3" && currentH2) {
+            let tocLink = document.createElement("a");
+            tocLink.href = "#" + header.id;
+            tocLink.style = "text-decoration: none;";
+            tocLink.textContent = header.textContent;
+
+            let subItem = document.createElement("li");
+            subItem.appendChild(tocLink);
+
+            currentH2.querySelector("ul").appendChild(subItem);
+          }
+        });
+      });
+
+      document.addEventListener("DOMContentLoaded", function () {
+        document
+          .querySelectorAll("p, li, h1, h2, h3, h4, h5, h6")
+          .forEach(function (el) {
+            if (el.querySelector("img")) return;
+            if (!el.textContent.trim()) el.remove();
+          });
+      });
+
+      document.addEventListener("DOMContentLoaded", function () {
+        document.getElementById("timestamp").textContent =
+          new Date().toLocaleString();
+      });
+    </script>
+  </body>
+</html>

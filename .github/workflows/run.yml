@@ -25,6 +25,9 @@ jobs:
         run: bun start
         env:
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
+      - name: Compile
+        if: steps.fetch.outcome == 'success'
+        run: bun compile
       - name: Commit
         if: steps.fetch.outcome == 'success'
         run: |

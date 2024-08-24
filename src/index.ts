@@ -1,7 +1,7 @@
 import { connect, disconnect, getAuthors, getPosts } from "./db";
-import { generateFrontmatter, log, slugify } from "./functions";
-import { appendFile, readdir } from "node:fs/promises";
-import { mdToPdf } from "md-to-pdf";
+import { log, slugify } from "./functions";
+import matter from "gray-matter";
+import { appendFile } from "node:fs/promises";
 
 async function main() {
   try {
@@ -12,57 +12,51 @@ async function main() {
     log("⏳ Fetching authors...");
     const authors = await getAuthors();
     log(`✅ Fetched ${authors.rowCount} authors`);
+
     for (const author of authors.rows) {
       const slug = slugify(author.name);
-      const frontmatter = generateFrontmatter({
-        id: author.id,
-        name: author.name,
-        profilePicture: author.profilePicture,
-        yearOfLife: author.yearOfLife,
-        description: author.description,
-        slug,
+      const url = `[https://ilalang.drepram.com/a/${author.id}](https://ilalang.drepram.com/a/${author.id})`;
+      const title = `## ${author.name} (${author.yearOfLife})`;
+      const image = `![${author.name}](https://ilalang.drepram.com/${author.profilePicture})`;
+      const body = [title, url, author.description, image, author.bio].join(
+        "\n\n"
+      );
+      const markdown = matter.stringify(body, {
+        content: {
+          id: author.id,
+          name: author.name,
+          profilePicture: author.profilePicture,
+          yearOfLife: author.yearOfLife,
+          description: author.description,
+          slug,
+        },
       });
-      let content = `${frontmatter}\n`;
-      content += `# ${author.name} (${author.yearOfLife})\n\n`;
-      content += `${author.description}\n\n`;
-      content += `![${author.name}](https://ilalang.drepram.com/${author.profilePicture})\n\n`;
-      content += `${author.bio}\n\n`;
-      await Bun.write(`./content/${slug}/README.md`, content);
+      await Bun.write(`./content/${slug}/README.md`, markdown);
       log(`✅ Created files for author ${slug}`);
     }
 
     log("⏳ Fetching posts...");
     const posts = await getPosts();
     log(`✅ Fetched ${posts.rowCount} posts`);
+
     for (const post of posts.rows) {
       const slug = slugify(post.title ?? post.id);
       const authorSlug = slugify(post.author ?? "unknown");
-      const frontmatter = generateFrontmatter({
-        id: post.id,
-        title: post.title,
-        author: post.author,
-        slug,
+      const title = `### ${post.title}`;
+      const author = `oleh ${post.author}`;
+      const url = `[https://ilalang.drepram.com/p/${post.id}](https://ilalang.drepram.com/p/${post.id})`;
+      const body = [title, author, url, post.content].join("\n\n");
+      const markdown = matter.stringify(body, {
+        content: {
+          id: post.id,
+          title: post.title,
+          author: post.author,
+          slug,
+        },
       });
-      let content = `${frontmatter}\n`;
-      content += `# ${post.title}\n\n`;
-      content += `${post.content}\n\n`;
-      await Bun.write(`./content/${authorSlug}/${slug}.md`, content);
-      await appendFile(
-        `./content/${authorSlug}/README.md`,
-        `\n\n<div class="page-break"></div>\n\n## ${post.title}\n\n${post.content}`
-      );
+      await Bun.write(`./content/${authorSlug}/${slug}.md`, markdown);
+      await appendFile(`./content/${authorSlug}/README.md`, `\n\n${body}`);
       log(`✅ Created files ./content/${authorSlug}/${slug}.md`);
-    }
-
-    const authorDirs = await readdir("./content");
-    for (const author of authorDirs) {
-      const pdf = await mdToPdf({
-        path: `./content/${author}/README.md`,
-      }).catch(console.error);
-      if (pdf) {
-        await Bun.write(`./content/${author}/README.pdf`, pdf.content);
-        log(`✅ Created PDF for author ${author}`);
-      }
     }
   } catch (error) {
     log(`❌ ${error instanceof Error ? error.message : error}`);
